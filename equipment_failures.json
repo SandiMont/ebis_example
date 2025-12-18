@@ -1,0 +1,6943 @@
+{
+  "equipment_failures": [
+    {
+      "attraction_id": "AT618",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "low",
+      "impact_minutes": 14,
+      "status": "in_progress",
+      "maintenance_cost": 3620.8
+    },
+    {
+      "attraction_id": "AT618",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "high",
+      "impact_minutes": 16,
+      "status": "pending",
+      "maintenance_cost": 7241.58
+    },
+    {
+      "attraction_id": "AT618",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "medium",
+      "impact_minutes": 52,
+      "status": "pending",
+      "maintenance_cost": 1259.13
+    },
+    {
+      "attraction_id": "AT522",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "low",
+      "impact_minutes": 16,
+      "status": "resolved",
+      "maintenance_cost": 5398.55
+    },
+    {
+      "attraction_id": "AT522",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "medium",
+      "impact_minutes": 55,
+      "status": "pending",
+      "maintenance_cost": 5395.91
+    },
+    {
+      "attraction_id": "AT175",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "high",
+      "impact_minutes": 20,
+      "status": "in_progress",
+      "maintenance_cost": 4767.9
+    },
+    {
+      "attraction_id": "AT175",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "medium",
+      "impact_minutes": 26,
+      "status": "resolved",
+      "maintenance_cost": 612.49
+    },
+    {
+      "attraction_id": "AT175",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "high",
+      "impact_minutes": 12,
+      "status": "resolved",
+      "maintenance_cost": 8200.38
+    },
+    {
+      "attraction_id": "AT175",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "low",
+      "impact_minutes": 24,
+      "status": "resolved",
+      "maintenance_cost": 4335.94
+    },
+    {
+      "attraction_id": "AT453",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "low",
+      "impact_minutes": 16,
+      "status": "in_progress",
+      "maintenance_cost": 9274.21
+    },
+    {
+      "attraction_id": "AT453",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "medium",
+      "impact_minutes": 16,
+      "status": "pending",
+      "maintenance_cost": 3014.69
+    },
+    {
+      "attraction_id": "AT453",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "low",
+      "impact_minutes": 42,
+      "status": "pending",
+      "maintenance_cost": 9929.28
+    },
+    {
+      "attraction_id": "AT453",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "medium",
+      "impact_minutes": 18,
+      "status": "pending",
+      "maintenance_cost": 2029.93
+    },
+    {
+      "attraction_id": "AT356",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "medium",
+      "impact_minutes": 34,
+      "status": "resolved",
+      "maintenance_cost": 8988.88
+    },
+    {
+      "attraction_id": "AT356",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "high",
+      "impact_minutes": 24,
+      "status": "pending",
+      "maintenance_cost": 4507.24
+    },
+    {
+      "attraction_id": "AT482",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "medium",
+      "impact_minutes": 22,
+      "status": "in_progress",
+      "maintenance_cost": 3196.02
+    },
+    {
+      "attraction_id": "AT482",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "medium",
+      "impact_minutes": 56,
+      "status": "in_progress",
+      "maintenance_cost": 8903.44
+    },
+    {
+      "attraction_id": "AT482",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "medium",
+      "impact_minutes": 51,
+      "status": "resolved",
+      "maintenance_cost": 7293.04
+    },
+    {
+      "attraction_id": "AT489",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "low",
+      "impact_minutes": 53,
+      "status": "pending",
+      "maintenance_cost": 5565.14
+    },
+    {
+      "attraction_id": "AT489",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "medium",
+      "impact_minutes": 54,
+      "status": "pending",
+      "maintenance_cost": 3543.06
+    },
+    {
+      "attraction_id": "AT996",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "high",
+      "impact_minutes": 29,
+      "status": "resolved",
+      "maintenance_cost": 4837.54
+    },
+    {
+      "attraction_id": "AT996",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "medium",
+      "impact_minutes": 30,
+      "status": "in_progress",
+      "maintenance_cost": 6751.04
+    },
+    {
+      "attraction_id": "AT996",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "medium",
+      "impact_minutes": 18,
+      "status": "pending",
+      "maintenance_cost": 3786.61
+    },
+    {
+      "attraction_id": "AT190",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "low",
+      "impact_minutes": 36,
+      "status": "pending",
+      "maintenance_cost": 3772.81
+    },
+    {
+      "attraction_id": "AT190",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "medium",
+      "impact_minutes": 59,
+      "status": "resolved",
+      "maintenance_cost": 9598.68
+    },
+    {
+      "attraction_id": "AT190",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "low",
+      "impact_minutes": 20,
+      "status": "in_progress",
+      "maintenance_cost": 2844.58
+    },
+    {
+      "attraction_id": "AT190",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "high",
+      "impact_minutes": 37,
+      "status": "pending",
+      "maintenance_cost": 9785.1
+    },
+    {
+      "attraction_id": "AT217",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "medium",
+      "impact_minutes": 16,
+      "status": "resolved",
+      "maintenance_cost": 2349.87
+    },
+    {
+      "attraction_id": "AT217",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "medium",
+      "impact_minutes": 55,
+      "status": "resolved",
+      "maintenance_cost": 242.24
+    },
+    {
+      "attraction_id": "AT217",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "low",
+      "impact_minutes": 57,
+      "status": "pending",
+      "maintenance_cost": 9875.2
+    },
+    {
+      "attraction_id": "AT217",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "low",
+      "impact_minutes": 12,
+      "status": "in_progress",
+      "maintenance_cost": 7500.27
+    },
+    {
+      "attraction_id": "AT997",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "low",
+      "impact_minutes": 10,
+      "status": "in_progress",
+      "maintenance_cost": 1378.92
+    },
+    {
+      "attraction_id": "AT929",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "high",
+      "impact_minutes": 28,
+      "status": "pending",
+      "maintenance_cost": 9576.48
+    },
+    {
+      "attraction_id": "AT929",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "medium",
+      "impact_minutes": 11,
+      "status": "resolved",
+      "maintenance_cost": 8116.14
+    },
+    {
+      "attraction_id": "AT929",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "high",
+      "impact_minutes": 10,
+      "status": "resolved",
+      "maintenance_cost": 7136.67
+    },
+    {
+      "attraction_id": "AT929",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "low",
+      "impact_minutes": 16,
+      "status": "resolved",
+      "maintenance_cost": 1216.2
+    },
+    {
+      "attraction_id": "AT616",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "low",
+      "impact_minutes": 24,
+      "status": "resolved",
+      "maintenance_cost": 1934.07
+    },
+    {
+      "attraction_id": "AT219",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "high",
+      "impact_minutes": 60,
+      "status": "pending",
+      "maintenance_cost": 2855.75
+    },
+    {
+      "attraction_id": "AT229",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "low",
+      "impact_minutes": 43,
+      "status": "pending",
+      "maintenance_cost": 7106.42
+    },
+    {
+      "attraction_id": "AT229",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "medium",
+      "impact_minutes": 56,
+      "status": "in_progress",
+      "maintenance_cost": 3553.41
+    },
+    {
+      "attraction_id": "AT229",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "high",
+      "impact_minutes": 12,
+      "status": "pending",
+      "maintenance_cost": 8293.33
+    },
+    {
+      "attraction_id": "AT257",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "medium",
+      "impact_minutes": 10,
+      "status": "in_progress",
+      "maintenance_cost": 9827.77
+    },
+    {
+      "attraction_id": "AT257",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "high",
+      "impact_minutes": 15,
+      "status": "in_progress",
+      "maintenance_cost": 7467.87
+    },
+    {
+      "attraction_id": "AT257",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "medium",
+      "impact_minutes": 53,
+      "status": "pending",
+      "maintenance_cost": 9592.77
+    },
+    {
+      "attraction_id": "AT257",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "high",
+      "impact_minutes": 47,
+      "status": "in_progress",
+      "maintenance_cost": 213.46
+    },
+    {
+      "attraction_id": "AT416",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "medium",
+      "impact_minutes": 16,
+      "status": "resolved",
+      "maintenance_cost": 9723.63
+    },
+    {
+      "attraction_id": "AT416",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "medium",
+      "impact_minutes": 54,
+      "status": "pending",
+      "maintenance_cost": 4293.99
+    },
+    {
+      "attraction_id": "AT909",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "low",
+      "impact_minutes": 26,
+      "status": "resolved",
+      "maintenance_cost": 7540.53
+    },
+    {
+      "attraction_id": "AT909",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "low",
+      "impact_minutes": 48,
+      "status": "resolved",
+      "maintenance_cost": 1924.8
+    },
+    {
+      "attraction_id": "AT909",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "high",
+      "impact_minutes": 27,
+      "status": "resolved",
+      "maintenance_cost": 4316.17
+    },
+    {
+      "attraction_id": "AT749",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "high",
+      "impact_minutes": 34,
+      "status": "pending",
+      "maintenance_cost": 2111.43
+    },
+    {
+      "attraction_id": "AT749",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "medium",
+      "impact_minutes": 41,
+      "status": "in_progress",
+      "maintenance_cost": 6666.77
+    },
+    {
+      "attraction_id": "AT749",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "medium",
+      "impact_minutes": 46,
+      "status": "resolved",
+      "maintenance_cost": 537.23
+    },
+    {
+      "attraction_id": "AT749",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "low",
+      "impact_minutes": 39,
+      "status": "in_progress",
+      "maintenance_cost": 2877.68
+    },
+    {
+      "attraction_id": "AT215",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "low",
+      "impact_minutes": 21,
+      "status": "resolved",
+      "maintenance_cost": 9837.53
+    },
+    {
+      "attraction_id": "AT428",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "high",
+      "impact_minutes": 19,
+      "status": "resolved",
+      "maintenance_cost": 9454.88
+    },
+    {
+      "attraction_id": "AT428",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "low",
+      "impact_minutes": 35,
+      "status": "resolved",
+      "maintenance_cost": 9292.06
+    },
+    {
+      "attraction_id": "AT162",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "high",
+      "impact_minutes": 12,
+      "status": "pending",
+      "maintenance_cost": 6848.89
+    },
+    {
+      "attraction_id": "AT162",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "medium",
+      "impact_minutes": 20,
+      "status": "resolved",
+      "maintenance_cost": 990.49
+    },
+    {
+      "attraction_id": "AT162",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "medium",
+      "impact_minutes": 53,
+      "status": "in_progress",
+      "maintenance_cost": 4978.76
+    },
+    {
+      "attraction_id": "AT281",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "low",
+      "impact_minutes": 42,
+      "status": "resolved",
+      "maintenance_cost": 1249.8
+    },
+    {
+      "attraction_id": "AT786",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "medium",
+      "impact_minutes": 29,
+      "status": "in_progress",
+      "maintenance_cost": 6248.44
+    },
+    {
+      "attraction_id": "AT786",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "medium",
+      "impact_minutes": 32,
+      "status": "resolved",
+      "maintenance_cost": 9087.32
+    },
+    {
+      "attraction_id": "AT549",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "low",
+      "impact_minutes": 22,
+      "status": "pending",
+      "maintenance_cost": 1400.53
+    },
+    {
+      "attraction_id": "AT549",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "high",
+      "impact_minutes": 40,
+      "status": "in_progress",
+      "maintenance_cost": 5733.7
+    },
+    {
+      "attraction_id": "AT549",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "high",
+      "impact_minutes": 47,
+      "status": "in_progress",
+      "maintenance_cost": 3781.96
+    },
+    {
+      "attraction_id": "AT549",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "medium",
+      "impact_minutes": 57,
+      "status": "pending",
+      "maintenance_cost": 3200.66
+    },
+    {
+      "attraction_id": "AT948",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "medium",
+      "impact_minutes": 60,
+      "status": "in_progress",
+      "maintenance_cost": 8538.23
+    },
+    {
+      "attraction_id": "AT948",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "low",
+      "impact_minutes": 13,
+      "status": "in_progress",
+      "maintenance_cost": 2262.73
+    },
+    {
+      "attraction_id": "AT735",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "low",
+      "impact_minutes": 52,
+      "status": "pending",
+      "maintenance_cost": 2177.33
+    },
+    {
+      "attraction_id": "AT735",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "high",
+      "impact_minutes": 50,
+      "status": "in_progress",
+      "maintenance_cost": 9713.69
+    },
+    {
+      "attraction_id": "AT735",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "medium",
+      "impact_minutes": 53,
+      "status": "resolved",
+      "maintenance_cost": 3810.19
+    },
+    {
+      "attraction_id": "AT735",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "low",
+      "impact_minutes": 35,
+      "status": "resolved",
+      "maintenance_cost": 4747.72
+    },
+    {
+      "attraction_id": "AT342",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "medium",
+      "impact_minutes": 10,
+      "status": "pending",
+      "maintenance_cost": 1289.49
+    },
+    {
+      "attraction_id": "AT342",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "low",
+      "impact_minutes": 19,
+      "status": "resolved",
+      "maintenance_cost": 9298.82
+    },
+    {
+      "attraction_id": "AT342",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "high",
+      "impact_minutes": 53,
+      "status": "resolved",
+      "maintenance_cost": 256.87
+    },
+    {
+      "attraction_id": "AT342",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "low",
+      "impact_minutes": 22,
+      "status": "in_progress",
+      "maintenance_cost": 2401.3
+    },
+    {
+      "attraction_id": "AT557",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "high",
+      "impact_minutes": 55,
+      "status": "resolved",
+      "maintenance_cost": 5916.76
+    },
+    {
+      "attraction_id": "AT557",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "medium",
+      "impact_minutes": 40,
+      "status": "in_progress",
+      "maintenance_cost": 1307.71
+    },
+    {
+      "attraction_id": "AT557",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "high",
+      "impact_minutes": 31,
+      "status": "pending",
+      "maintenance_cost": 8302.8
+    },
+    {
+      "attraction_id": "AT557",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "medium",
+      "impact_minutes": 56,
+      "status": "pending",
+      "maintenance_cost": 2919.42
+    },
+    {
+      "attraction_id": "AT465",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "high",
+      "impact_minutes": 52,
+      "status": "resolved",
+      "maintenance_cost": 4320.24
+    },
+    {
+      "attraction_id": "AT465",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "low",
+      "impact_minutes": 60,
+      "status": "pending",
+      "maintenance_cost": 2865.03
+    },
+    {
+      "attraction_id": "AT310",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "low",
+      "impact_minutes": 18,
+      "status": "resolved",
+      "maintenance_cost": 6161.84
+    },
+    {
+      "attraction_id": "AT737",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "medium",
+      "impact_minutes": 13,
+      "status": "resolved",
+      "maintenance_cost": 2949.98
+    },
+    {
+      "attraction_id": "AT737",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "medium",
+      "impact_minutes": 52,
+      "status": "pending",
+      "maintenance_cost": 9816.91
+    },
+    {
+      "attraction_id": "AT737",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "high",
+      "impact_minutes": 31,
+      "status": "pending",
+      "maintenance_cost": 9760.93
+    },
+    {
+      "attraction_id": "AT782",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "medium",
+      "impact_minutes": 56,
+      "status": "pending",
+      "maintenance_cost": 6344.5
+    },
+    {
+      "attraction_id": "AT782",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "low",
+      "impact_minutes": 17,
+      "status": "resolved",
+      "maintenance_cost": 1257.12
+    },
+    {
+      "attraction_id": "AT782",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "medium",
+      "impact_minutes": 55,
+      "status": "in_progress",
+      "maintenance_cost": 4144.05
+    },
+    {
+      "attraction_id": "AT540",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "high",
+      "impact_minutes": 54,
+      "status": "pending",
+      "maintenance_cost": 7153.93
+    },
+    {
+      "attraction_id": "AT540",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "high",
+      "impact_minutes": 48,
+      "status": "pending",
+      "maintenance_cost": 7574.91
+    },
+    {
+      "attraction_id": "AT540",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "low",
+      "impact_minutes": 46,
+      "status": "resolved",
+      "maintenance_cost": 248.13
+    },
+    {
+      "attraction_id": "AT563",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "medium",
+      "impact_minutes": 26,
+      "status": "in_progress",
+      "maintenance_cost": 653.39
+    },
+    {
+      "attraction_id": "AT563",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "high",
+      "impact_minutes": 45,
+      "status": "resolved",
+      "maintenance_cost": 2681.67
+    },
+    {
+      "attraction_id": "AT563",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "medium",
+      "impact_minutes": 36,
+      "status": "resolved",
+      "maintenance_cost": 1090.38
+    },
+    {
+      "attraction_id": "AT773",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "medium",
+      "impact_minutes": 18,
+      "status": "pending",
+      "maintenance_cost": 7481.76
+    },
+    {
+      "attraction_id": "AT573",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "medium",
+      "impact_minutes": 17,
+      "status": "pending",
+      "maintenance_cost": 8954.49
+    },
+    {
+      "attraction_id": "AT573",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "high",
+      "impact_minutes": 60,
+      "status": "resolved",
+      "maintenance_cost": 2249.57
+    },
+    {
+      "attraction_id": "AT573",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "high",
+      "impact_minutes": 60,
+      "status": "in_progress",
+      "maintenance_cost": 5169.28
+    },
+    {
+      "attraction_id": "AT573",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "low",
+      "impact_minutes": 42,
+      "status": "resolved",
+      "maintenance_cost": 252.71
+    },
+    {
+      "attraction_id": "AT634",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "low",
+      "impact_minutes": 46,
+      "status": "resolved",
+      "maintenance_cost": 3154.6
+    },
+    {
+      "attraction_id": "AT634",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "medium",
+      "impact_minutes": 27,
+      "status": "in_progress",
+      "maintenance_cost": 9455.15
+    },
+    {
+      "attraction_id": "AT634",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "low",
+      "impact_minutes": 54,
+      "status": "in_progress",
+      "maintenance_cost": 3922.68
+    },
+    {
+      "attraction_id": "AT638",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "low",
+      "impact_minutes": 41,
+      "status": "resolved",
+      "maintenance_cost": 2803.92
+    },
+    {
+      "attraction_id": "AT638",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "high",
+      "impact_minutes": 10,
+      "status": "in_progress",
+      "maintenance_cost": 1695.42
+    },
+    {
+      "attraction_id": "AT765",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "low",
+      "impact_minutes": 40,
+      "status": "pending",
+      "maintenance_cost": 1684.21
+    },
+    {
+      "attraction_id": "AT468",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "high",
+      "impact_minutes": 42,
+      "status": "in_progress",
+      "maintenance_cost": 7031.5
+    },
+    {
+      "attraction_id": "AT468",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "medium",
+      "impact_minutes": 39,
+      "status": "pending",
+      "maintenance_cost": 6239.45
+    },
+    {
+      "attraction_id": "AT512",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "medium",
+      "impact_minutes": 33,
+      "status": "in_progress",
+      "maintenance_cost": 3157.91
+    },
+    {
+      "attraction_id": "AT329",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "medium",
+      "impact_minutes": 15,
+      "status": "pending",
+      "maintenance_cost": 8272.36
+    },
+    {
+      "attraction_id": "AT329",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "high",
+      "impact_minutes": 33,
+      "status": "in_progress",
+      "maintenance_cost": 9669.9
+    },
+    {
+      "attraction_id": "AT329",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "low",
+      "impact_minutes": 14,
+      "status": "pending",
+      "maintenance_cost": 8263.67
+    },
+    {
+      "attraction_id": "AT967",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "high",
+      "impact_minutes": 41,
+      "status": "pending",
+      "maintenance_cost": 4746.85
+    },
+    {
+      "attraction_id": "AT967",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "low",
+      "impact_minutes": 43,
+      "status": "pending",
+      "maintenance_cost": 9778.95
+    },
+    {
+      "attraction_id": "AT902",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "medium",
+      "impact_minutes": 26,
+      "status": "in_progress",
+      "maintenance_cost": 9857.26
+    },
+    {
+      "attraction_id": "AT902",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "low",
+      "impact_minutes": 55,
+      "status": "in_progress",
+      "maintenance_cost": 3589.66
+    },
+    {
+      "attraction_id": "AT383",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "low",
+      "impact_minutes": 40,
+      "status": "pending",
+      "maintenance_cost": 2218.04
+    },
+    {
+      "attraction_id": "AT383",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "high",
+      "impact_minutes": 27,
+      "status": "resolved",
+      "maintenance_cost": 3141.12
+    },
+    {
+      "attraction_id": "AT645",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "low",
+      "impact_minutes": 46,
+      "status": "in_progress",
+      "maintenance_cost": 8766.41
+    },
+    {
+      "attraction_id": "AT645",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "low",
+      "impact_minutes": 39,
+      "status": "resolved",
+      "maintenance_cost": 7222.26
+    },
+    {
+      "attraction_id": "AT645",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "medium",
+      "impact_minutes": 14,
+      "status": "in_progress",
+      "maintenance_cost": 8695.7
+    },
+    {
+      "attraction_id": "AT645",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "high",
+      "impact_minutes": 35,
+      "status": "pending",
+      "maintenance_cost": 4677.81
+    },
+    {
+      "attraction_id": "AT822",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "high",
+      "impact_minutes": 57,
+      "status": "in_progress",
+      "maintenance_cost": 2630.51
+    },
+    {
+      "attraction_id": "AT822",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "high",
+      "impact_minutes": 34,
+      "status": "in_progress",
+      "maintenance_cost": 6514.23
+    },
+    {
+      "attraction_id": "AT114",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "low",
+      "impact_minutes": 34,
+      "status": "in_progress",
+      "maintenance_cost": 7487.91
+    },
+    {
+      "attraction_id": "AT114",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "low",
+      "impact_minutes": 35,
+      "status": "resolved",
+      "maintenance_cost": 3655.22
+    },
+    {
+      "attraction_id": "AT114",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "medium",
+      "impact_minutes": 53,
+      "status": "in_progress",
+      "maintenance_cost": 5556.96
+    },
+    {
+      "attraction_id": "AT463",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "medium",
+      "impact_minutes": 16,
+      "status": "pending",
+      "maintenance_cost": 3166.65
+    },
+    {
+      "attraction_id": "AT542",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "medium",
+      "impact_minutes": 29,
+      "status": "pending",
+      "maintenance_cost": 1619.24
+    },
+    {
+      "attraction_id": "AT542",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "medium",
+      "impact_minutes": 54,
+      "status": "pending",
+      "maintenance_cost": 2749.47
+    },
+    {
+      "attraction_id": "AT835",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "low",
+      "impact_minutes": 17,
+      "status": "pending",
+      "maintenance_cost": 1751.33
+    },
+    {
+      "attraction_id": "AT835",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "medium",
+      "impact_minutes": 13,
+      "status": "in_progress",
+      "maintenance_cost": 9587.71
+    },
+    {
+      "attraction_id": "AT835",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "low",
+      "impact_minutes": 14,
+      "status": "pending",
+      "maintenance_cost": 8415.73
+    },
+    {
+      "attraction_id": "AT704",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "medium",
+      "impact_minutes": 18,
+      "status": "pending",
+      "maintenance_cost": 8988.96
+    },
+    {
+      "attraction_id": "AT704",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "high",
+      "impact_minutes": 27,
+      "status": "in_progress",
+      "maintenance_cost": 2767.74
+    },
+    {
+      "attraction_id": "AT704",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "high",
+      "impact_minutes": 51,
+      "status": "resolved",
+      "maintenance_cost": 2163.14
+    },
+    {
+      "attraction_id": "AT704",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "high",
+      "impact_minutes": 23,
+      "status": "resolved",
+      "maintenance_cost": 5486.97
+    },
+    {
+      "attraction_id": "AT982",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "high",
+      "impact_minutes": 56,
+      "status": "pending",
+      "maintenance_cost": 4896.73
+    },
+    {
+      "attraction_id": "AT982",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "medium",
+      "impact_minutes": 19,
+      "status": "in_progress",
+      "maintenance_cost": 6823.29
+    },
+    {
+      "attraction_id": "AT982",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "medium",
+      "impact_minutes": 43,
+      "status": "resolved",
+      "maintenance_cost": 931.73
+    },
+    {
+      "attraction_id": "AT466",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "medium",
+      "impact_minutes": 26,
+      "status": "in_progress",
+      "maintenance_cost": 7207.12
+    },
+    {
+      "attraction_id": "AT466",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "medium",
+      "impact_minutes": 51,
+      "status": "in_progress",
+      "maintenance_cost": 4799.66
+    },
+    {
+      "attraction_id": "AT348",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "high",
+      "impact_minutes": 30,
+      "status": "in_progress",
+      "maintenance_cost": 9024.89
+    },
+    {
+      "attraction_id": "AT348",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "high",
+      "impact_minutes": 33,
+      "status": "pending",
+      "maintenance_cost": 2991.08
+    },
+    {
+      "attraction_id": "AT348",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "high",
+      "impact_minutes": 26,
+      "status": "resolved",
+      "maintenance_cost": 5302.38
+    },
+    {
+      "attraction_id": "AT615",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "high",
+      "impact_minutes": 20,
+      "status": "pending",
+      "maintenance_cost": 5636.59
+    },
+    {
+      "attraction_id": "AT615",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "medium",
+      "impact_minutes": 56,
+      "status": "pending",
+      "maintenance_cost": 4400.34
+    },
+    {
+      "attraction_id": "AT615",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "low",
+      "impact_minutes": 14,
+      "status": "pending",
+      "maintenance_cost": 6156.72
+    },
+    {
+      "attraction_id": "AT615",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "medium",
+      "impact_minutes": 59,
+      "status": "resolved",
+      "maintenance_cost": 7936.07
+    },
+    {
+      "attraction_id": "AT921",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "medium",
+      "impact_minutes": 57,
+      "status": "pending",
+      "maintenance_cost": 6579.16
+    },
+    {
+      "attraction_id": "AT748",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "high",
+      "impact_minutes": 45,
+      "status": "in_progress",
+      "maintenance_cost": 7684.37
+    },
+    {
+      "attraction_id": "AT748",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "medium",
+      "impact_minutes": 32,
+      "status": "in_progress",
+      "maintenance_cost": 2956.39
+    },
+    {
+      "attraction_id": "AT748",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "low",
+      "impact_minutes": 34,
+      "status": "resolved",
+      "maintenance_cost": 9925.03
+    },
+    {
+      "attraction_id": "AT748",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "low",
+      "impact_minutes": 28,
+      "status": "in_progress",
+      "maintenance_cost": 9695.49
+    },
+    {
+      "attraction_id": "AT109",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "high",
+      "impact_minutes": 60,
+      "status": "in_progress",
+      "maintenance_cost": 3010.4
+    },
+    {
+      "attraction_id": "AT109",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "high",
+      "impact_minutes": 12,
+      "status": "in_progress",
+      "maintenance_cost": 5865.16
+    },
+    {
+      "attraction_id": "AT109",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "high",
+      "impact_minutes": 28,
+      "status": "resolved",
+      "maintenance_cost": 6370.2
+    },
+    {
+      "attraction_id": "AT109",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "low",
+      "impact_minutes": 30,
+      "status": "pending",
+      "maintenance_cost": 1370.91
+    },
+    {
+      "attraction_id": "AT267",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "low",
+      "impact_minutes": 28,
+      "status": "in_progress",
+      "maintenance_cost": 7473.8
+    },
+    {
+      "attraction_id": "AT267",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "low",
+      "impact_minutes": 41,
+      "status": "resolved",
+      "maintenance_cost": 7281.65
+    },
+    {
+      "attraction_id": "AT267",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "high",
+      "impact_minutes": 59,
+      "status": "in_progress",
+      "maintenance_cost": 2894.62
+    },
+    {
+      "attraction_id": "AT236",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "medium",
+      "impact_minutes": 41,
+      "status": "pending",
+      "maintenance_cost": 8082.85
+    },
+    {
+      "attraction_id": "AT236",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "high",
+      "impact_minutes": 59,
+      "status": "pending",
+      "maintenance_cost": 2403.38
+    },
+    {
+      "attraction_id": "AT245",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "medium",
+      "impact_minutes": 41,
+      "status": "in_progress",
+      "maintenance_cost": 5546.98
+    },
+    {
+      "attraction_id": "AT245",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "medium",
+      "impact_minutes": 58,
+      "status": "in_progress",
+      "maintenance_cost": 4692.04
+    },
+    {
+      "attraction_id": "AT245",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "high",
+      "impact_minutes": 51,
+      "status": "in_progress",
+      "maintenance_cost": 508.16
+    },
+    {
+      "attraction_id": "AT478",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "low",
+      "impact_minutes": 13,
+      "status": "in_progress",
+      "maintenance_cost": 6579.24
+    },
+    {
+      "attraction_id": "AT478",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "medium",
+      "impact_minutes": 22,
+      "status": "in_progress",
+      "maintenance_cost": 1577.22
+    },
+    {
+      "attraction_id": "AT478",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "high",
+      "impact_minutes": 39,
+      "status": "pending",
+      "maintenance_cost": 4122.35
+    },
+    {
+      "attraction_id": "AT344",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "low",
+      "impact_minutes": 24,
+      "status": "in_progress",
+      "maintenance_cost": 8376.07
+    },
+    {
+      "attraction_id": "AT344",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "low",
+      "impact_minutes": 51,
+      "status": "in_progress",
+      "maintenance_cost": 9386.25
+    },
+    {
+      "attraction_id": "AT344",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "medium",
+      "impact_minutes": 46,
+      "status": "resolved",
+      "maintenance_cost": 9829.37
+    },
+    {
+      "attraction_id": "AT984",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "low",
+      "impact_minutes": 25,
+      "status": "resolved",
+      "maintenance_cost": 8938.09
+    },
+    {
+      "attraction_id": "AT833",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "low",
+      "impact_minutes": 17,
+      "status": "in_progress",
+      "maintenance_cost": 4891.6
+    },
+    {
+      "attraction_id": "AT833",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "low",
+      "impact_minutes": 24,
+      "status": "resolved",
+      "maintenance_cost": 5888.59
+    },
+    {
+      "attraction_id": "AT833",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "low",
+      "impact_minutes": 47,
+      "status": "resolved",
+      "maintenance_cost": 8811.59
+    },
+    {
+      "attraction_id": "AT763",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "medium",
+      "impact_minutes": 55,
+      "status": "in_progress",
+      "maintenance_cost": 7971.52
+    },
+    {
+      "attraction_id": "AT763",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "medium",
+      "impact_minutes": 24,
+      "status": "pending",
+      "maintenance_cost": 8423.25
+    },
+    {
+      "attraction_id": "AT763",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "medium",
+      "impact_minutes": 43,
+      "status": "resolved",
+      "maintenance_cost": 5599.75
+    },
+    {
+      "attraction_id": "AT763",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "low",
+      "impact_minutes": 16,
+      "status": "pending",
+      "maintenance_cost": 5163.0
+    },
+    {
+      "attraction_id": "AT473",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "low",
+      "impact_minutes": 32,
+      "status": "in_progress",
+      "maintenance_cost": 8274.95
+    },
+    {
+      "attraction_id": "AT473",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "medium",
+      "impact_minutes": 49,
+      "status": "pending",
+      "maintenance_cost": 9335.97
+    },
+    {
+      "attraction_id": "AT473",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "low",
+      "impact_minutes": 58,
+      "status": "in_progress",
+      "maintenance_cost": 6435.8
+    },
+    {
+      "attraction_id": "AT457",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "high",
+      "impact_minutes": 38,
+      "status": "pending",
+      "maintenance_cost": 4773.44
+    },
+    {
+      "attraction_id": "AT457",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "high",
+      "impact_minutes": 39,
+      "status": "in_progress",
+      "maintenance_cost": 3224.3
+    },
+    {
+      "attraction_id": "AT457",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "low",
+      "impact_minutes": 58,
+      "status": "pending",
+      "maintenance_cost": 7914.41
+    },
+    {
+      "attraction_id": "AT457",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "low",
+      "impact_minutes": 33,
+      "status": "in_progress",
+      "maintenance_cost": 2286.82
+    },
+    {
+      "attraction_id": "AT286",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "low",
+      "impact_minutes": 24,
+      "status": "in_progress",
+      "maintenance_cost": 1657.23
+    },
+    {
+      "attraction_id": "AT286",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "low",
+      "impact_minutes": 17,
+      "status": "in_progress",
+      "maintenance_cost": 1194.88
+    },
+    {
+      "attraction_id": "AT472",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "medium",
+      "impact_minutes": 43,
+      "status": "resolved",
+      "maintenance_cost": 1734.06
+    },
+    {
+      "attraction_id": "AT472",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "high",
+      "impact_minutes": 33,
+      "status": "pending",
+      "maintenance_cost": 8307.37
+    },
+    {
+      "attraction_id": "AT472",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "medium",
+      "impact_minutes": 11,
+      "status": "pending",
+      "maintenance_cost": 1295.53
+    },
+    {
+      "attraction_id": "AT472",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "high",
+      "impact_minutes": 55,
+      "status": "pending",
+      "maintenance_cost": 8150.93
+    },
+    {
+      "attraction_id": "AT968",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "medium",
+      "impact_minutes": 55,
+      "status": "in_progress",
+      "maintenance_cost": 805.11
+    },
+    {
+      "attraction_id": "AT968",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "high",
+      "impact_minutes": 30,
+      "status": "pending",
+      "maintenance_cost": 2362.34
+    },
+    {
+      "attraction_id": "AT968",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "high",
+      "impact_minutes": 37,
+      "status": "pending",
+      "maintenance_cost": 3822.59
+    },
+    {
+      "attraction_id": "AT180",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "high",
+      "impact_minutes": 39,
+      "status": "resolved",
+      "maintenance_cost": 5691.89
+    },
+    {
+      "attraction_id": "AT180",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "medium",
+      "impact_minutes": 47,
+      "status": "in_progress",
+      "maintenance_cost": 9922.64
+    },
+    {
+      "attraction_id": "AT180",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "low",
+      "impact_minutes": 50,
+      "status": "pending",
+      "maintenance_cost": 7400.03
+    },
+    {
+      "attraction_id": "AT180",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "medium",
+      "impact_minutes": 58,
+      "status": "resolved",
+      "maintenance_cost": 2957.01
+    },
+    {
+      "attraction_id": "AT148",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "low",
+      "impact_minutes": 56,
+      "status": "resolved",
+      "maintenance_cost": 3883.83
+    },
+    {
+      "attraction_id": "AT148",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "low",
+      "impact_minutes": 14,
+      "status": "in_progress",
+      "maintenance_cost": 3788.29
+    },
+    {
+      "attraction_id": "AT415",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "medium",
+      "impact_minutes": 51,
+      "status": "pending",
+      "maintenance_cost": 9081.96
+    },
+    {
+      "attraction_id": "AT415",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "medium",
+      "impact_minutes": 48,
+      "status": "in_progress",
+      "maintenance_cost": 8599.65
+    },
+    {
+      "attraction_id": "AT415",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "high",
+      "impact_minutes": 22,
+      "status": "pending",
+      "maintenance_cost": 9363.01
+    },
+    {
+      "attraction_id": "AT415",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "high",
+      "impact_minutes": 19,
+      "status": "in_progress",
+      "maintenance_cost": 7482.02
+    },
+    {
+      "attraction_id": "AT575",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "medium",
+      "impact_minutes": 43,
+      "status": "in_progress",
+      "maintenance_cost": 1851.17
+    },
+    {
+      "attraction_id": "AT421",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "medium",
+      "impact_minutes": 54,
+      "status": "pending",
+      "maintenance_cost": 2024.32
+    },
+    {
+      "attraction_id": "AT421",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "low",
+      "impact_minutes": 24,
+      "status": "in_progress",
+      "maintenance_cost": 3737.59
+    },
+    {
+      "attraction_id": "AT410",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "high",
+      "impact_minutes": 28,
+      "status": "in_progress",
+      "maintenance_cost": 716.24
+    },
+    {
+      "attraction_id": "AT181",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "low",
+      "impact_minutes": 34,
+      "status": "in_progress",
+      "maintenance_cost": 2403.33
+    },
+    {
+      "attraction_id": "AT181",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "medium",
+      "impact_minutes": 43,
+      "status": "pending",
+      "maintenance_cost": 8442.99
+    },
+    {
+      "attraction_id": "AT207",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "low",
+      "impact_minutes": 40,
+      "status": "pending",
+      "maintenance_cost": 7478.22
+    },
+    {
+      "attraction_id": "AT207",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "medium",
+      "impact_minutes": 35,
+      "status": "resolved",
+      "maintenance_cost": 655.75
+    },
+    {
+      "attraction_id": "AT207",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "medium",
+      "impact_minutes": 35,
+      "status": "in_progress",
+      "maintenance_cost": 1048.5
+    },
+    {
+      "attraction_id": "AT207",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "high",
+      "impact_minutes": 40,
+      "status": "resolved",
+      "maintenance_cost": 8979.46
+    },
+    {
+      "attraction_id": "AT157",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "medium",
+      "impact_minutes": 41,
+      "status": "in_progress",
+      "maintenance_cost": 8797.27
+    },
+    {
+      "attraction_id": "AT157",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "low",
+      "impact_minutes": 49,
+      "status": "pending",
+      "maintenance_cost": 6724.62
+    },
+    {
+      "attraction_id": "AT157",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "high",
+      "impact_minutes": 20,
+      "status": "in_progress",
+      "maintenance_cost": 5081.61
+    },
+    {
+      "attraction_id": "AT591",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "medium",
+      "impact_minutes": 26,
+      "status": "in_progress",
+      "maintenance_cost": 1680.52
+    },
+    {
+      "attraction_id": "AT788",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "low",
+      "impact_minutes": 21,
+      "status": "in_progress",
+      "maintenance_cost": 1007.96
+    },
+    {
+      "attraction_id": "AT788",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "low",
+      "impact_minutes": 20,
+      "status": "pending",
+      "maintenance_cost": 752.29
+    },
+    {
+      "attraction_id": "AT110",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "low",
+      "impact_minutes": 26,
+      "status": "pending",
+      "maintenance_cost": 5359.11
+    },
+    {
+      "attraction_id": "AT110",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "high",
+      "impact_minutes": 37,
+      "status": "pending",
+      "maintenance_cost": 2849.23
+    },
+    {
+      "attraction_id": "AT110",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "low",
+      "impact_minutes": 23,
+      "status": "in_progress",
+      "maintenance_cost": 9255.49
+    },
+    {
+      "attraction_id": "AT110",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "high",
+      "impact_minutes": 58,
+      "status": "resolved",
+      "maintenance_cost": 4493.99
+    },
+    {
+      "attraction_id": "AT501",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "medium",
+      "impact_minutes": 58,
+      "status": "pending",
+      "maintenance_cost": 8978.74
+    },
+    {
+      "attraction_id": "AT501",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "medium",
+      "impact_minutes": 14,
+      "status": "resolved",
+      "maintenance_cost": 1746.29
+    },
+    {
+      "attraction_id": "AT501",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "medium",
+      "impact_minutes": 55,
+      "status": "in_progress",
+      "maintenance_cost": 3736.02
+    },
+    {
+      "attraction_id": "AT665",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "medium",
+      "impact_minutes": 21,
+      "status": "in_progress",
+      "maintenance_cost": 1114.82
+    },
+    {
+      "attraction_id": "AT665",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "medium",
+      "impact_minutes": 17,
+      "status": "resolved",
+      "maintenance_cost": 6930.39
+    },
+    {
+      "attraction_id": "AT665",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "low",
+      "impact_minutes": 26,
+      "status": "pending",
+      "maintenance_cost": 7972.68
+    },
+    {
+      "attraction_id": "AT665",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "high",
+      "impact_minutes": 43,
+      "status": "pending",
+      "maintenance_cost": 4597.05
+    },
+    {
+      "attraction_id": "AT144",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "low",
+      "impact_minutes": 58,
+      "status": "pending",
+      "maintenance_cost": 9579.31
+    },
+    {
+      "attraction_id": "AT144",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "medium",
+      "impact_minutes": 34,
+      "status": "resolved",
+      "maintenance_cost": 1813.54
+    },
+    {
+      "attraction_id": "AT144",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "medium",
+      "impact_minutes": 15,
+      "status": "resolved",
+      "maintenance_cost": 8315.14
+    },
+    {
+      "attraction_id": "AT144",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "medium",
+      "impact_minutes": 15,
+      "status": "resolved",
+      "maintenance_cost": 8194.18
+    },
+    {
+      "attraction_id": "AT386",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "high",
+      "impact_minutes": 11,
+      "status": "pending",
+      "maintenance_cost": 3422.59
+    },
+    {
+      "attraction_id": "AT386",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "medium",
+      "impact_minutes": 44,
+      "status": "in_progress",
+      "maintenance_cost": 4251.86
+    },
+    {
+      "attraction_id": "AT607",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "medium",
+      "impact_minutes": 15,
+      "status": "resolved",
+      "maintenance_cost": 1451.82
+    },
+    {
+      "attraction_id": "AT607",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "medium",
+      "impact_minutes": 22,
+      "status": "resolved",
+      "maintenance_cost": 9536.99
+    },
+    {
+      "attraction_id": "AT607",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "medium",
+      "impact_minutes": 23,
+      "status": "resolved",
+      "maintenance_cost": 6034.87
+    },
+    {
+      "attraction_id": "AT607",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "high",
+      "impact_minutes": 42,
+      "status": "pending",
+      "maintenance_cost": 6806.74
+    },
+    {
+      "attraction_id": "AT807",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "high",
+      "impact_minutes": 19,
+      "status": "in_progress",
+      "maintenance_cost": 2168.02
+    },
+    {
+      "attraction_id": "AT807",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "high",
+      "impact_minutes": 41,
+      "status": "pending",
+      "maintenance_cost": 9147.09
+    },
+    {
+      "attraction_id": "AT807",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "low",
+      "impact_minutes": 52,
+      "status": "in_progress",
+      "maintenance_cost": 3109.39
+    },
+    {
+      "attraction_id": "AT302",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "high",
+      "impact_minutes": 60,
+      "status": "pending",
+      "maintenance_cost": 1817.51
+    },
+    {
+      "attraction_id": "AT302",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "high",
+      "impact_minutes": 19,
+      "status": "in_progress",
+      "maintenance_cost": 7300.74
+    },
+    {
+      "attraction_id": "AT302",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "low",
+      "impact_minutes": 45,
+      "status": "in_progress",
+      "maintenance_cost": 6481.32
+    },
+    {
+      "attraction_id": "AT302",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "medium",
+      "impact_minutes": 16,
+      "status": "pending",
+      "maintenance_cost": 1978.86
+    },
+    {
+      "attraction_id": "AT382",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "medium",
+      "impact_minutes": 21,
+      "status": "resolved",
+      "maintenance_cost": 5273.68
+    },
+    {
+      "attraction_id": "AT382",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "medium",
+      "impact_minutes": 33,
+      "status": "resolved",
+      "maintenance_cost": 5968.16
+    },
+    {
+      "attraction_id": "AT382",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "low",
+      "impact_minutes": 23,
+      "status": "pending",
+      "maintenance_cost": 8542.4
+    },
+    {
+      "attraction_id": "AT755",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "medium",
+      "impact_minutes": 43,
+      "status": "resolved",
+      "maintenance_cost": 2752.49
+    },
+    {
+      "attraction_id": "AT755",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "low",
+      "impact_minutes": 54,
+      "status": "resolved",
+      "maintenance_cost": 5748.11
+    },
+    {
+      "attraction_id": "AT589",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "medium",
+      "impact_minutes": 59,
+      "status": "in_progress",
+      "maintenance_cost": 3144.31
+    },
+    {
+      "attraction_id": "AT589",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "medium",
+      "impact_minutes": 13,
+      "status": "in_progress",
+      "maintenance_cost": 3644.28
+    },
+    {
+      "attraction_id": "AT589",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "medium",
+      "impact_minutes": 42,
+      "status": "pending",
+      "maintenance_cost": 4854.79
+    },
+    {
+      "attraction_id": "AT636",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "medium",
+      "impact_minutes": 34,
+      "status": "resolved",
+      "maintenance_cost": 4889.86
+    },
+    {
+      "attraction_id": "AT780",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "high",
+      "impact_minutes": 59,
+      "status": "resolved",
+      "maintenance_cost": 1385.81
+    },
+    {
+      "attraction_id": "AT767",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "high",
+      "impact_minutes": 54,
+      "status": "resolved",
+      "maintenance_cost": 5859.11
+    },
+    {
+      "attraction_id": "AT767",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "medium",
+      "impact_minutes": 48,
+      "status": "resolved",
+      "maintenance_cost": 2804.64
+    },
+    {
+      "attraction_id": "AT767",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "high",
+      "impact_minutes": 48,
+      "status": "resolved",
+      "maintenance_cost": 3441.75
+    },
+    {
+      "attraction_id": "AT283",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "medium",
+      "impact_minutes": 31,
+      "status": "pending",
+      "maintenance_cost": 8617.09
+    },
+    {
+      "attraction_id": "AT926",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "low",
+      "impact_minutes": 36,
+      "status": "resolved",
+      "maintenance_cost": 8684.11
+    },
+    {
+      "attraction_id": "AT926",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "medium",
+      "impact_minutes": 34,
+      "status": "resolved",
+      "maintenance_cost": 7251.13
+    },
+    {
+      "attraction_id": "AT653",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "medium",
+      "impact_minutes": 56,
+      "status": "resolved",
+      "maintenance_cost": 5259.73
+    },
+    {
+      "attraction_id": "AT653",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "high",
+      "impact_minutes": 51,
+      "status": "resolved",
+      "maintenance_cost": 8975.94
+    },
+    {
+      "attraction_id": "AT653",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "low",
+      "impact_minutes": 30,
+      "status": "pending",
+      "maintenance_cost": 4318.58
+    },
+    {
+      "attraction_id": "AT653",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "high",
+      "impact_minutes": 53,
+      "status": "pending",
+      "maintenance_cost": 3124.52
+    },
+    {
+      "attraction_id": "AT324",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "medium",
+      "impact_minutes": 10,
+      "status": "in_progress",
+      "maintenance_cost": 2375.8
+    },
+    {
+      "attraction_id": "AT324",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "medium",
+      "impact_minutes": 51,
+      "status": "in_progress",
+      "maintenance_cost": 1764.15
+    },
+    {
+      "attraction_id": "AT585",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "low",
+      "impact_minutes": 27,
+      "status": "in_progress",
+      "maintenance_cost": 5889.78
+    },
+    {
+      "attraction_id": "AT585",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "low",
+      "impact_minutes": 19,
+      "status": "resolved",
+      "maintenance_cost": 6750.35
+    },
+    {
+      "attraction_id": "AT585",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "high",
+      "impact_minutes": 57,
+      "status": "pending",
+      "maintenance_cost": 7546.63
+    },
+    {
+      "attraction_id": "AT585",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "low",
+      "impact_minutes": 16,
+      "status": "resolved",
+      "maintenance_cost": 4762.31
+    },
+    {
+      "attraction_id": "AT941",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "low",
+      "impact_minutes": 58,
+      "status": "in_progress",
+      "maintenance_cost": 3378.94
+    },
+    {
+      "attraction_id": "AT941",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "medium",
+      "impact_minutes": 38,
+      "status": "in_progress",
+      "maintenance_cost": 5597.12
+    },
+    {
+      "attraction_id": "AT941",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "medium",
+      "impact_minutes": 21,
+      "status": "pending",
+      "maintenance_cost": 6812.16
+    },
+    {
+      "attraction_id": "AT499",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "low",
+      "impact_minutes": 15,
+      "status": "pending",
+      "maintenance_cost": 8378.7
+    },
+    {
+      "attraction_id": "AT499",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "medium",
+      "impact_minutes": 10,
+      "status": "in_progress",
+      "maintenance_cost": 5113.29
+    },
+    {
+      "attraction_id": "AT812",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "medium",
+      "impact_minutes": 26,
+      "status": "resolved",
+      "maintenance_cost": 1792.17
+    },
+    {
+      "attraction_id": "AT812",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "low",
+      "impact_minutes": 60,
+      "status": "resolved",
+      "maintenance_cost": 1973.46
+    },
+    {
+      "attraction_id": "AT812",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "high",
+      "impact_minutes": 11,
+      "status": "pending",
+      "maintenance_cost": 2008.94
+    },
+    {
+      "attraction_id": "AT543",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "high",
+      "impact_minutes": 38,
+      "status": "resolved",
+      "maintenance_cost": 5679.05
+    },
+    {
+      "attraction_id": "AT543",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "medium",
+      "impact_minutes": 52,
+      "status": "pending",
+      "maintenance_cost": 1092.02
+    },
+    {
+      "attraction_id": "AT327",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "high",
+      "impact_minutes": 33,
+      "status": "pending",
+      "maintenance_cost": 9363.69
+    },
+    {
+      "attraction_id": "AT327",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "low",
+      "impact_minutes": 52,
+      "status": "resolved",
+      "maintenance_cost": 5865.63
+    },
+    {
+      "attraction_id": "AT327",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "high",
+      "impact_minutes": 49,
+      "status": "resolved",
+      "maintenance_cost": 4452.1
+    },
+    {
+      "attraction_id": "AT327",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "medium",
+      "impact_minutes": 59,
+      "status": "pending",
+      "maintenance_cost": 8732.41
+    },
+    {
+      "attraction_id": "AT243",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "low",
+      "impact_minutes": 50,
+      "status": "resolved",
+      "maintenance_cost": 4354.48
+    },
+    {
+      "attraction_id": "AT593",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "high",
+      "impact_minutes": 36,
+      "status": "resolved",
+      "maintenance_cost": 2285.57
+    },
+    {
+      "attraction_id": "AT593",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "high",
+      "impact_minutes": 20,
+      "status": "pending",
+      "maintenance_cost": 1323.24
+    },
+    {
+      "attraction_id": "AT670",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "low",
+      "impact_minutes": 36,
+      "status": "pending",
+      "maintenance_cost": 8290.03
+    },
+    {
+      "attraction_id": "AT670",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "low",
+      "impact_minutes": 39,
+      "status": "pending",
+      "maintenance_cost": 6010.95
+    },
+    {
+      "attraction_id": "AT584",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "high",
+      "impact_minutes": 57,
+      "status": "in_progress",
+      "maintenance_cost": 8352.3
+    },
+    {
+      "attraction_id": "AT584",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "medium",
+      "impact_minutes": 15,
+      "status": "resolved",
+      "maintenance_cost": 8428.82
+    },
+    {
+      "attraction_id": "AT584",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "low",
+      "impact_minutes": 22,
+      "status": "resolved",
+      "maintenance_cost": 7711.62
+    },
+    {
+      "attraction_id": "AT584",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "medium",
+      "impact_minutes": 48,
+      "status": "in_progress",
+      "maintenance_cost": 6415.04
+    },
+    {
+      "attraction_id": "AT201",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "low",
+      "impact_minutes": 21,
+      "status": "in_progress",
+      "maintenance_cost": 1195.19
+    },
+    {
+      "attraction_id": "AT201",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "low",
+      "impact_minutes": 10,
+      "status": "in_progress",
+      "maintenance_cost": 3011.02
+    },
+    {
+      "attraction_id": "AT813",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "medium",
+      "impact_minutes": 37,
+      "status": "pending",
+      "maintenance_cost": 331.13
+    },
+    {
+      "attraction_id": "AT813",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "medium",
+      "impact_minutes": 52,
+      "status": "resolved",
+      "maintenance_cost": 6327.05
+    },
+    {
+      "attraction_id": "AT813",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "medium",
+      "impact_minutes": 23,
+      "status": "resolved",
+      "maintenance_cost": 7535.47
+    },
+    {
+      "attraction_id": "AT938",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "low",
+      "impact_minutes": 25,
+      "status": "resolved",
+      "maintenance_cost": 9774.71
+    },
+    {
+      "attraction_id": "AT938",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "medium",
+      "impact_minutes": 15,
+      "status": "pending",
+      "maintenance_cost": 8409.25
+    },
+    {
+      "attraction_id": "AT938",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "medium",
+      "impact_minutes": 11,
+      "status": "in_progress",
+      "maintenance_cost": 2535.74
+    },
+    {
+      "attraction_id": "AT722",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "low",
+      "impact_minutes": 49,
+      "status": "resolved",
+      "maintenance_cost": 6748.0
+    },
+    {
+      "attraction_id": "AT408",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "high",
+      "impact_minutes": 59,
+      "status": "pending",
+      "maintenance_cost": 8033.33
+    },
+    {
+      "attraction_id": "AT492",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "high",
+      "impact_minutes": 24,
+      "status": "in_progress",
+      "maintenance_cost": 4110.71
+    },
+    {
+      "attraction_id": "AT492",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "low",
+      "impact_minutes": 43,
+      "status": "resolved",
+      "maintenance_cost": 6720.57
+    },
+    {
+      "attraction_id": "AT930",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "low",
+      "impact_minutes": 27,
+      "status": "in_progress",
+      "maintenance_cost": 3703.5
+    },
+    {
+      "attraction_id": "AT930",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "low",
+      "impact_minutes": 20,
+      "status": "resolved",
+      "maintenance_cost": 8668.2
+    },
+    {
+      "attraction_id": "AT930",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "high",
+      "impact_minutes": 35,
+      "status": "in_progress",
+      "maintenance_cost": 5806.87
+    },
+    {
+      "attraction_id": "AT289",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "medium",
+      "impact_minutes": 30,
+      "status": "resolved",
+      "maintenance_cost": 6342.61
+    },
+    {
+      "attraction_id": "AT124",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "low",
+      "impact_minutes": 36,
+      "status": "resolved",
+      "maintenance_cost": 4021.39
+    },
+    {
+      "attraction_id": "AT124",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "low",
+      "impact_minutes": 41,
+      "status": "pending",
+      "maintenance_cost": 1042.5
+    },
+    {
+      "attraction_id": "AT264",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "high",
+      "impact_minutes": 27,
+      "status": "resolved",
+      "maintenance_cost": 1948.96
+    },
+    {
+      "attraction_id": "AT264",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "low",
+      "impact_minutes": 53,
+      "status": "in_progress",
+      "maintenance_cost": 553.14
+    },
+    {
+      "attraction_id": "AT264",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "low",
+      "impact_minutes": 38,
+      "status": "in_progress",
+      "maintenance_cost": 7206.43
+    },
+    {
+      "attraction_id": "AT477",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "high",
+      "impact_minutes": 30,
+      "status": "in_progress",
+      "maintenance_cost": 9599.55
+    },
+    {
+      "attraction_id": "AT477",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "high",
+      "impact_minutes": 16,
+      "status": "pending",
+      "maintenance_cost": 5288.69
+    },
+    {
+      "attraction_id": "AT128",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "medium",
+      "impact_minutes": 15,
+      "status": "in_progress",
+      "maintenance_cost": 642.22
+    },
+    {
+      "attraction_id": "AT743",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "medium",
+      "impact_minutes": 40,
+      "status": "resolved",
+      "maintenance_cost": 236.61
+    },
+    {
+      "attraction_id": "AT743",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "high",
+      "impact_minutes": 10,
+      "status": "in_progress",
+      "maintenance_cost": 3830.54
+    },
+    {
+      "attraction_id": "AT445",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "low",
+      "impact_minutes": 32,
+      "status": "in_progress",
+      "maintenance_cost": 4253.05
+    },
+    {
+      "attraction_id": "AT445",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "low",
+      "impact_minutes": 45,
+      "status": "resolved",
+      "maintenance_cost": 4484.83
+    },
+    {
+      "attraction_id": "AT438",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "medium",
+      "impact_minutes": 46,
+      "status": "pending",
+      "maintenance_cost": 2291.18
+    },
+    {
+      "attraction_id": "AT143",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "low",
+      "impact_minutes": 27,
+      "status": "pending",
+      "maintenance_cost": 1883.68
+    },
+    {
+      "attraction_id": "AT815",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "medium",
+      "impact_minutes": 16,
+      "status": "resolved",
+      "maintenance_cost": 1327.6
+    },
+    {
+      "attraction_id": "AT815",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "high",
+      "impact_minutes": 28,
+      "status": "resolved",
+      "maintenance_cost": 203.0
+    },
+    {
+      "attraction_id": "AT178",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "medium",
+      "impact_minutes": 18,
+      "status": "pending",
+      "maintenance_cost": 2490.27
+    },
+    {
+      "attraction_id": "AT178",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "medium",
+      "impact_minutes": 23,
+      "status": "resolved",
+      "maintenance_cost": 8224.35
+    },
+    {
+      "attraction_id": "AT228",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "high",
+      "impact_minutes": 33,
+      "status": "pending",
+      "maintenance_cost": 1705.94
+    },
+    {
+      "attraction_id": "AT228",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "high",
+      "impact_minutes": 56,
+      "status": "resolved",
+      "maintenance_cost": 2563.39
+    },
+    {
+      "attraction_id": "AT228",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "high",
+      "impact_minutes": 15,
+      "status": "resolved",
+      "maintenance_cost": 439.29
+    },
+    {
+      "attraction_id": "AT228",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "medium",
+      "impact_minutes": 28,
+      "status": "resolved",
+      "maintenance_cost": 5952.64
+    },
+    {
+      "attraction_id": "AT486",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "medium",
+      "impact_minutes": 40,
+      "status": "pending",
+      "maintenance_cost": 9092.3
+    },
+    {
+      "attraction_id": "AT368",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "high",
+      "impact_minutes": 39,
+      "status": "pending",
+      "maintenance_cost": 4127.93
+    },
+    {
+      "attraction_id": "AT368",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "high",
+      "impact_minutes": 18,
+      "status": "pending",
+      "maintenance_cost": 6099.9
+    },
+    {
+      "attraction_id": "AT368",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "medium",
+      "impact_minutes": 38,
+      "status": "resolved",
+      "maintenance_cost": 7187.28
+    },
+    {
+      "attraction_id": "AT368",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "low",
+      "impact_minutes": 39,
+      "status": "in_progress",
+      "maintenance_cost": 9331.26
+    },
+    {
+      "attraction_id": "AT147",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "low",
+      "impact_minutes": 55,
+      "status": "in_progress",
+      "maintenance_cost": 4648.87
+    },
+    {
+      "attraction_id": "AT147",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "medium",
+      "impact_minutes": 18,
+      "status": "pending",
+      "maintenance_cost": 2114.02
+    },
+    {
+      "attraction_id": "AT772",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "low",
+      "impact_minutes": 52,
+      "status": "resolved",
+      "maintenance_cost": 6867.03
+    },
+    {
+      "attraction_id": "AT772",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "medium",
+      "impact_minutes": 57,
+      "status": "in_progress",
+      "maintenance_cost": 4533.9
+    },
+    {
+      "attraction_id": "AT772",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "medium",
+      "impact_minutes": 58,
+      "status": "in_progress",
+      "maintenance_cost": 5392.41
+    },
+    {
+      "attraction_id": "AT772",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "medium",
+      "impact_minutes": 13,
+      "status": "resolved",
+      "maintenance_cost": 5081.43
+    },
+    {
+      "attraction_id": "AT248",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "low",
+      "impact_minutes": 48,
+      "status": "resolved",
+      "maintenance_cost": 7741.78
+    },
+    {
+      "attraction_id": "AT248",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "high",
+      "impact_minutes": 29,
+      "status": "resolved",
+      "maintenance_cost": 315.52
+    },
+    {
+      "attraction_id": "AT988",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "low",
+      "impact_minutes": 52,
+      "status": "pending",
+      "maintenance_cost": 5658.67
+    },
+    {
+      "attraction_id": "AT988",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "medium",
+      "impact_minutes": 58,
+      "status": "resolved",
+      "maintenance_cost": 2939.74
+    },
+    {
+      "attraction_id": "AT988",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "low",
+      "impact_minutes": 59,
+      "status": "in_progress",
+      "maintenance_cost": 990.07
+    },
+    {
+      "attraction_id": "AT988",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "low",
+      "impact_minutes": 32,
+      "status": "pending",
+      "maintenance_cost": 6690.13
+    },
+    {
+      "attraction_id": "AT533",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "low",
+      "impact_minutes": 19,
+      "status": "resolved",
+      "maintenance_cost": 2116.63
+    },
+    {
+      "attraction_id": "AT116",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "medium",
+      "impact_minutes": 23,
+      "status": "pending",
+      "maintenance_cost": 8654.79
+    },
+    {
+      "attraction_id": "AT116",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "high",
+      "impact_minutes": 19,
+      "status": "resolved",
+      "maintenance_cost": 2262.89
+    },
+    {
+      "attraction_id": "AT658",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "high",
+      "impact_minutes": 32,
+      "status": "resolved",
+      "maintenance_cost": 871.14
+    },
+    {
+      "attraction_id": "AT510",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "low",
+      "impact_minutes": 40,
+      "status": "resolved",
+      "maintenance_cost": 5270.05
+    },
+    {
+      "attraction_id": "AT714",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "high",
+      "impact_minutes": 10,
+      "status": "resolved",
+      "maintenance_cost": 7398.33
+    },
+    {
+      "attraction_id": "AT754",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "medium",
+      "impact_minutes": 37,
+      "status": "pending",
+      "maintenance_cost": 9577.11
+    },
+    {
+      "attraction_id": "AT754",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "low",
+      "impact_minutes": 51,
+      "status": "in_progress",
+      "maintenance_cost": 1278.09
+    },
+    {
+      "attraction_id": "AT754",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "high",
+      "impact_minutes": 57,
+      "status": "in_progress",
+      "maintenance_cost": 7528.35
+    },
+    {
+      "attraction_id": "AT754",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "low",
+      "impact_minutes": 50,
+      "status": "resolved",
+      "maintenance_cost": 2237.43
+    },
+    {
+      "attraction_id": "AT112",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "medium",
+      "impact_minutes": 46,
+      "status": "pending",
+      "maintenance_cost": 2716.8
+    },
+    {
+      "attraction_id": "AT112",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "high",
+      "impact_minutes": 45,
+      "status": "in_progress",
+      "maintenance_cost": 5065.89
+    },
+    {
+      "attraction_id": "AT112",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "medium",
+      "impact_minutes": 30,
+      "status": "in_progress",
+      "maintenance_cost": 8019.88
+    },
+    {
+      "attraction_id": "AT112",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "low",
+      "impact_minutes": 23,
+      "status": "pending",
+      "maintenance_cost": 3077.89
+    },
+    {
+      "attraction_id": "AT374",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "high",
+      "impact_minutes": 11,
+      "status": "in_progress",
+      "maintenance_cost": 7555.15
+    },
+    {
+      "attraction_id": "AT374",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "medium",
+      "impact_minutes": 37,
+      "status": "pending",
+      "maintenance_cost": 943.16
+    },
+    {
+      "attraction_id": "AT374",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "high",
+      "impact_minutes": 31,
+      "status": "pending",
+      "maintenance_cost": 7547.09
+    },
+    {
+      "attraction_id": "AT374",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "medium",
+      "impact_minutes": 33,
+      "status": "in_progress",
+      "maintenance_cost": 4404.55
+    },
+    {
+      "attraction_id": "AT259",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "low",
+      "impact_minutes": 32,
+      "status": "pending",
+      "maintenance_cost": 9104.47
+    },
+    {
+      "attraction_id": "AT666",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "low",
+      "impact_minutes": 49,
+      "status": "pending",
+      "maintenance_cost": 3382.15
+    },
+    {
+      "attraction_id": "AT666",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "high",
+      "impact_minutes": 30,
+      "status": "pending",
+      "maintenance_cost": 6951.38
+    },
+    {
+      "attraction_id": "AT220",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "high",
+      "impact_minutes": 25,
+      "status": "pending",
+      "maintenance_cost": 9276.98
+    },
+    {
+      "attraction_id": "AT220",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "high",
+      "impact_minutes": 44,
+      "status": "in_progress",
+      "maintenance_cost": 786.34
+    },
+    {
+      "attraction_id": "AT220",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "medium",
+      "impact_minutes": 28,
+      "status": "pending",
+      "maintenance_cost": 3772.87
+    },
+    {
+      "attraction_id": "AT920",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "medium",
+      "impact_minutes": 30,
+      "status": "resolved",
+      "maintenance_cost": 8241.05
+    },
+    {
+      "attraction_id": "AT920",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "low",
+      "impact_minutes": 40,
+      "status": "resolved",
+      "maintenance_cost": 6546.78
+    },
+    {
+      "attraction_id": "AT920",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "high",
+      "impact_minutes": 44,
+      "status": "pending",
+      "maintenance_cost": 5217.11
+    },
+    {
+      "attraction_id": "AT920",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "medium",
+      "impact_minutes": 52,
+      "status": "resolved",
+      "maintenance_cost": 8591.21
+    },
+    {
+      "attraction_id": "AT353",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "low",
+      "impact_minutes": 59,
+      "status": "resolved",
+      "maintenance_cost": 7346.28
+    },
+    {
+      "attraction_id": "AT711",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "high",
+      "impact_minutes": 47,
+      "status": "pending",
+      "maintenance_cost": 1070.16
+    },
+    {
+      "attraction_id": "AT461",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "high",
+      "impact_minutes": 57,
+      "status": "pending",
+      "maintenance_cost": 1722.53
+    },
+    {
+      "attraction_id": "AT184",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "high",
+      "impact_minutes": 40,
+      "status": "resolved",
+      "maintenance_cost": 7990.11
+    },
+    {
+      "attraction_id": "AT481",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "medium",
+      "impact_minutes": 54,
+      "status": "in_progress",
+      "maintenance_cost": 5653.79
+    },
+    {
+      "attraction_id": "AT481",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "medium",
+      "impact_minutes": 42,
+      "status": "resolved",
+      "maintenance_cost": 2566.5
+    },
+    {
+      "attraction_id": "AT481",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "high",
+      "impact_minutes": 46,
+      "status": "resolved",
+      "maintenance_cost": 8931.22
+    },
+    {
+      "attraction_id": "AT774",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "high",
+      "impact_minutes": 41,
+      "status": "in_progress",
+      "maintenance_cost": 2351.55
+    },
+    {
+      "attraction_id": "AT774",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "medium",
+      "impact_minutes": 20,
+      "status": "resolved",
+      "maintenance_cost": 5603.84
+    },
+    {
+      "attraction_id": "AT774",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "high",
+      "impact_minutes": 55,
+      "status": "in_progress",
+      "maintenance_cost": 2149.11
+    },
+    {
+      "attraction_id": "AT494",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "medium",
+      "impact_minutes": 35,
+      "status": "in_progress",
+      "maintenance_cost": 3133.71
+    },
+    {
+      "attraction_id": "AT101",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "low",
+      "impact_minutes": 21,
+      "status": "pending",
+      "maintenance_cost": 1976.61
+    },
+    {
+      "attraction_id": "AT906",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "medium",
+      "impact_minutes": 49,
+      "status": "in_progress",
+      "maintenance_cost": 9702.47
+    },
+    {
+      "attraction_id": "AT804",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "medium",
+      "impact_minutes": 21,
+      "status": "in_progress",
+      "maintenance_cost": 9151.53
+    },
+    {
+      "attraction_id": "AT412",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "low",
+      "impact_minutes": 41,
+      "status": "in_progress",
+      "maintenance_cost": 8008.69
+    },
+    {
+      "attraction_id": "AT412",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "low",
+      "impact_minutes": 46,
+      "status": "resolved",
+      "maintenance_cost": 1404.08
+    },
+    {
+      "attraction_id": "AT412",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "medium",
+      "impact_minutes": 58,
+      "status": "in_progress",
+      "maintenance_cost": 836.12
+    },
+    {
+      "attraction_id": "AT928",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "medium",
+      "impact_minutes": 39,
+      "status": "pending",
+      "maintenance_cost": 5093.9
+    },
+    {
+      "attraction_id": "AT928",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "high",
+      "impact_minutes": 32,
+      "status": "pending",
+      "maintenance_cost": 1972.0
+    },
+    {
+      "attraction_id": "AT234",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "high",
+      "impact_minutes": 32,
+      "status": "pending",
+      "maintenance_cost": 7466.45
+    },
+    {
+      "attraction_id": "AT792",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "high",
+      "impact_minutes": 47,
+      "status": "pending",
+      "maintenance_cost": 3789.1
+    },
+    {
+      "attraction_id": "AT792",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "medium",
+      "impact_minutes": 22,
+      "status": "pending",
+      "maintenance_cost": 8294.88
+    },
+    {
+      "attraction_id": "AT792",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "medium",
+      "impact_minutes": 23,
+      "status": "pending",
+      "maintenance_cost": 4659.78
+    },
+    {
+      "attraction_id": "AT792",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "low",
+      "impact_minutes": 55,
+      "status": "resolved",
+      "maintenance_cost": 8477.12
+    },
+    {
+      "attraction_id": "AT272",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "low",
+      "impact_minutes": 54,
+      "status": "in_progress",
+      "maintenance_cost": 972.44
+    },
+    {
+      "attraction_id": "AT272",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "medium",
+      "impact_minutes": 10,
+      "status": "pending",
+      "maintenance_cost": 237.87
+    },
+    {
+      "attraction_id": "AT272",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "high",
+      "impact_minutes": 39,
+      "status": "in_progress",
+      "maintenance_cost": 2229.29
+    },
+    {
+      "attraction_id": "AT272",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "low",
+      "impact_minutes": 19,
+      "status": "in_progress",
+      "maintenance_cost": 5633.8
+    },
+    {
+      "attraction_id": "AT420",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "high",
+      "impact_minutes": 45,
+      "status": "in_progress",
+      "maintenance_cost": 921.71
+    },
+    {
+      "attraction_id": "AT568",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "low",
+      "impact_minutes": 16,
+      "status": "pending",
+      "maintenance_cost": 2863.53
+    },
+    {
+      "attraction_id": "AT568",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "high",
+      "impact_minutes": 50,
+      "status": "in_progress",
+      "maintenance_cost": 3071.34
+    },
+    {
+      "attraction_id": "AT568",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "low",
+      "impact_minutes": 21,
+      "status": "in_progress",
+      "maintenance_cost": 7485.99
+    },
+    {
+      "attraction_id": "AT568",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "low",
+      "impact_minutes": 54,
+      "status": "pending",
+      "maintenance_cost": 6388.85
+    },
+    {
+      "attraction_id": "AT976",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "medium",
+      "impact_minutes": 42,
+      "status": "resolved",
+      "maintenance_cost": 4101.16
+    },
+    {
+      "attraction_id": "AT976",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "low",
+      "impact_minutes": 41,
+      "status": "resolved",
+      "maintenance_cost": 465.21
+    },
+    {
+      "attraction_id": "AT358",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "medium",
+      "impact_minutes": 50,
+      "status": "resolved",
+      "maintenance_cost": 1943.33
+    },
+    {
+      "attraction_id": "AT358",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "medium",
+      "impact_minutes": 21,
+      "status": "resolved",
+      "maintenance_cost": 3939.93
+    },
+    {
+      "attraction_id": "AT766",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "high",
+      "impact_minutes": 39,
+      "status": "pending",
+      "maintenance_cost": 5543.87
+    },
+    {
+      "attraction_id": "AT766",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "medium",
+      "impact_minutes": 13,
+      "status": "pending",
+      "maintenance_cost": 5928.92
+    },
+    {
+      "attraction_id": "AT766",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "medium",
+      "impact_minutes": 58,
+      "status": "in_progress",
+      "maintenance_cost": 6525.36
+    },
+    {
+      "attraction_id": "AT766",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "medium",
+      "impact_minutes": 51,
+      "status": "resolved",
+      "maintenance_cost": 7672.59
+    },
+    {
+      "attraction_id": "AT908",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "high",
+      "impact_minutes": 44,
+      "status": "in_progress",
+      "maintenance_cost": 1522.94
+    },
+    {
+      "attraction_id": "AT829",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "medium",
+      "impact_minutes": 47,
+      "status": "in_progress",
+      "maintenance_cost": 1726.39
+    },
+    {
+      "attraction_id": "AT858",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "medium",
+      "impact_minutes": 17,
+      "status": "resolved",
+      "maintenance_cost": 4223.59
+    },
+    {
+      "attraction_id": "AT858",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "medium",
+      "impact_minutes": 28,
+      "status": "in_progress",
+      "maintenance_cost": 9211.54
+    },
+    {
+      "attraction_id": "AT858",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "high",
+      "impact_minutes": 47,
+      "status": "resolved",
+      "maintenance_cost": 7109.0
+    },
+    {
+      "attraction_id": "AT631",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "low",
+      "impact_minutes": 11,
+      "status": "resolved",
+      "maintenance_cost": 2586.75
+    },
+    {
+      "attraction_id": "AT631",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "high",
+      "impact_minutes": 16,
+      "status": "resolved",
+      "maintenance_cost": 7862.66
+    },
+    {
+      "attraction_id": "AT946",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "low",
+      "impact_minutes": 28,
+      "status": "in_progress",
+      "maintenance_cost": 9947.65
+    },
+    {
+      "attraction_id": "AT195",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "high",
+      "impact_minutes": 59,
+      "status": "pending",
+      "maintenance_cost": 4943.02
+    },
+    {
+      "attraction_id": "AT195",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "medium",
+      "impact_minutes": 14,
+      "status": "pending",
+      "maintenance_cost": 4453.07
+    },
+    {
+      "attraction_id": "AT880",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "medium",
+      "impact_minutes": 13,
+      "status": "in_progress",
+      "maintenance_cost": 2069.49
+    },
+    {
+      "attraction_id": "AT880",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "high",
+      "impact_minutes": 41,
+      "status": "resolved",
+      "maintenance_cost": 5467.2
+    },
+    {
+      "attraction_id": "AT880",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "low",
+      "impact_minutes": 10,
+      "status": "resolved",
+      "maintenance_cost": 3636.86
+    },
+    {
+      "attraction_id": "AT808",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "low",
+      "impact_minutes": 37,
+      "status": "resolved",
+      "maintenance_cost": 4396.38
+    },
+    {
+      "attraction_id": "AT808",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "high",
+      "impact_minutes": 39,
+      "status": "in_progress",
+      "maintenance_cost": 8515.17
+    },
+    {
+      "attraction_id": "AT808",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "medium",
+      "impact_minutes": 47,
+      "status": "pending",
+      "maintenance_cost": 7238.43
+    },
+    {
+      "attraction_id": "AT768",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "low",
+      "impact_minutes": 41,
+      "status": "resolved",
+      "maintenance_cost": 2726.69
+    },
+    {
+      "attraction_id": "AT485",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "low",
+      "impact_minutes": 58,
+      "status": "pending",
+      "maintenance_cost": 8150.4
+    },
+    {
+      "attraction_id": "AT485",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "medium",
+      "impact_minutes": 53,
+      "status": "in_progress",
+      "maintenance_cost": 3324.35
+    },
+    {
+      "attraction_id": "AT485",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "high",
+      "impact_minutes": 29,
+      "status": "resolved",
+      "maintenance_cost": 6190.64
+    },
+    {
+      "attraction_id": "AT803",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "medium",
+      "impact_minutes": 47,
+      "status": "in_progress",
+      "maintenance_cost": 1624.21
+    },
+    {
+      "attraction_id": "AT394",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "low",
+      "impact_minutes": 34,
+      "status": "pending",
+      "maintenance_cost": 3074.99
+    },
+    {
+      "attraction_id": "AT394",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "high",
+      "impact_minutes": 52,
+      "status": "in_progress",
+      "maintenance_cost": 2325.69
+    },
+    {
+      "attraction_id": "AT380",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "medium",
+      "impact_minutes": 59,
+      "status": "in_progress",
+      "maintenance_cost": 7396.89
+    },
+    {
+      "attraction_id": "AT380",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "medium",
+      "impact_minutes": 38,
+      "status": "resolved",
+      "maintenance_cost": 4544.71
+    },
+    {
+      "attraction_id": "AT650",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "high",
+      "impact_minutes": 16,
+      "status": "resolved",
+      "maintenance_cost": 8410.96
+    },
+    {
+      "attraction_id": "AT376",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "low",
+      "impact_minutes": 40,
+      "status": "in_progress",
+      "maintenance_cost": 5472.37
+    },
+    {
+      "attraction_id": "AT376",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "medium",
+      "impact_minutes": 51,
+      "status": "in_progress",
+      "maintenance_cost": 5200.43
+    },
+    {
+      "attraction_id": "AT376",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "low",
+      "impact_minutes": 27,
+      "status": "resolved",
+      "maintenance_cost": 7303.74
+    },
+    {
+      "attraction_id": "AT516",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "medium",
+      "impact_minutes": 26,
+      "status": "pending",
+      "maintenance_cost": 284.79
+    },
+    {
+      "attraction_id": "AT516",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "high",
+      "impact_minutes": 27,
+      "status": "in_progress",
+      "maintenance_cost": 5369.19
+    },
+    {
+      "attraction_id": "AT516",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "high",
+      "impact_minutes": 17,
+      "status": "in_progress",
+      "maintenance_cost": 3835.83
+    },
+    {
+      "attraction_id": "AT516",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "low",
+      "impact_minutes": 50,
+      "status": "resolved",
+      "maintenance_cost": 2648.15
+    },
+    {
+      "attraction_id": "AT872",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "high",
+      "impact_minutes": 21,
+      "status": "pending",
+      "maintenance_cost": 783.67
+    },
+    {
+      "attraction_id": "AT872",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "medium",
+      "impact_minutes": 28,
+      "status": "in_progress",
+      "maintenance_cost": 4000.33
+    },
+    {
+      "attraction_id": "AT872",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "high",
+      "impact_minutes": 53,
+      "status": "pending",
+      "maintenance_cost": 5039.14
+    },
+    {
+      "attraction_id": "AT872",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "high",
+      "impact_minutes": 23,
+      "status": "pending",
+      "maintenance_cost": 472.06
+    },
+    {
+      "attraction_id": "AT693",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "medium",
+      "impact_minutes": 54,
+      "status": "resolved",
+      "maintenance_cost": 6718.5
+    },
+    {
+      "attraction_id": "AT509",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "high",
+      "impact_minutes": 25,
+      "status": "pending",
+      "maintenance_cost": 8821.85
+    },
+    {
+      "attraction_id": "AT509",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "high",
+      "impact_minutes": 17,
+      "status": "in_progress",
+      "maintenance_cost": 7409.45
+    },
+    {
+      "attraction_id": "AT509",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "high",
+      "impact_minutes": 60,
+      "status": "in_progress",
+      "maintenance_cost": 8166.32
+    },
+    {
+      "attraction_id": "AT509",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "high",
+      "impact_minutes": 42,
+      "status": "in_progress",
+      "maintenance_cost": 1366.07
+    },
+    {
+      "attraction_id": "AT429",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "medium",
+      "impact_minutes": 58,
+      "status": "resolved",
+      "maintenance_cost": 8439.98
+    },
+    {
+      "attraction_id": "AT429",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "high",
+      "impact_minutes": 32,
+      "status": "in_progress",
+      "maintenance_cost": 3627.77
+    },
+    {
+      "attraction_id": "AT429",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "high",
+      "impact_minutes": 51,
+      "status": "pending",
+      "maintenance_cost": 7904.6
+    },
+    {
+      "attraction_id": "AT429",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "high",
+      "impact_minutes": 28,
+      "status": "resolved",
+      "maintenance_cost": 7947.34
+    },
+    {
+      "attraction_id": "AT448",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "medium",
+      "impact_minutes": 59,
+      "status": "resolved",
+      "maintenance_cost": 6474.39
+    },
+    {
+      "attraction_id": "AT448",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "medium",
+      "impact_minutes": 45,
+      "status": "resolved",
+      "maintenance_cost": 2514.58
+    },
+    {
+      "attraction_id": "AT448",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "medium",
+      "impact_minutes": 57,
+      "status": "pending",
+      "maintenance_cost": 4680.72
+    },
+    {
+      "attraction_id": "AT448",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "high",
+      "impact_minutes": 36,
+      "status": "pending",
+      "maintenance_cost": 9825.46
+    },
+    {
+      "attraction_id": "AT500",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "low",
+      "impact_minutes": 31,
+      "status": "in_progress",
+      "maintenance_cost": 780.43
+    },
+    {
+      "attraction_id": "AT500",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "low",
+      "impact_minutes": 29,
+      "status": "resolved",
+      "maintenance_cost": 6202.63
+    },
+    {
+      "attraction_id": "AT500",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "medium",
+      "impact_minutes": 38,
+      "status": "pending",
+      "maintenance_cost": 6286.31
+    },
+    {
+      "attraction_id": "AT500",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "high",
+      "impact_minutes": 45,
+      "status": "resolved",
+      "maintenance_cost": 7288.29
+    },
+    {
+      "attraction_id": "AT447",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "low",
+      "impact_minutes": 56,
+      "status": "in_progress",
+      "maintenance_cost": 7846.23
+    },
+    {
+      "attraction_id": "AT447",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "low",
+      "impact_minutes": 18,
+      "status": "resolved",
+      "maintenance_cost": 9784.14
+    },
+    {
+      "attraction_id": "AT309",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "high",
+      "impact_minutes": 44,
+      "status": "pending",
+      "maintenance_cost": 2558.18
+    },
+    {
+      "attraction_id": "AT903",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "medium",
+      "impact_minutes": 60,
+      "status": "pending",
+      "maintenance_cost": 4176.59
+    },
+    {
+      "attraction_id": "AT903",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "high",
+      "impact_minutes": 25,
+      "status": "in_progress",
+      "maintenance_cost": 894.19
+    },
+    {
+      "attraction_id": "AT903",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "medium",
+      "impact_minutes": 34,
+      "status": "resolved",
+      "maintenance_cost": 9199.71
+    },
+    {
+      "attraction_id": "AT903",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "low",
+      "impact_minutes": 21,
+      "status": "resolved",
+      "maintenance_cost": 1596.17
+    },
+    {
+      "attraction_id": "AT350",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "low",
+      "impact_minutes": 57,
+      "status": "pending",
+      "maintenance_cost": 4317.25
+    },
+    {
+      "attraction_id": "AT350",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "low",
+      "impact_minutes": 47,
+      "status": "pending",
+      "maintenance_cost": 6152.91
+    },
+    {
+      "attraction_id": "AT350",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "high",
+      "impact_minutes": 59,
+      "status": "in_progress",
+      "maintenance_cost": 6172.16
+    },
+    {
+      "attraction_id": "AT350",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "high",
+      "impact_minutes": 23,
+      "status": "in_progress",
+      "maintenance_cost": 6422.11
+    },
+    {
+      "attraction_id": "AT121",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "high",
+      "impact_minutes": 25,
+      "status": "resolved",
+      "maintenance_cost": 5462.69
+    },
+    {
+      "attraction_id": "AT121",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "low",
+      "impact_minutes": 47,
+      "status": "pending",
+      "maintenance_cost": 250.89
+    },
+    {
+      "attraction_id": "AT121",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "high",
+      "impact_minutes": 17,
+      "status": "resolved",
+      "maintenance_cost": 2704.6
+    },
+    {
+      "attraction_id": "AT330",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "high",
+      "impact_minutes": 18,
+      "status": "in_progress",
+      "maintenance_cost": 8746.18
+    },
+    {
+      "attraction_id": "AT330",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "high",
+      "impact_minutes": 31,
+      "status": "in_progress",
+      "maintenance_cost": 9249.76
+    },
+    {
+      "attraction_id": "AT888",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "low",
+      "impact_minutes": 52,
+      "status": "pending",
+      "maintenance_cost": 1001.07
+    },
+    {
+      "attraction_id": "AT888",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "medium",
+      "impact_minutes": 51,
+      "status": "in_progress",
+      "maintenance_cost": 1577.13
+    },
+    {
+      "attraction_id": "AT505",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "high",
+      "impact_minutes": 59,
+      "status": "resolved",
+      "maintenance_cost": 1485.05
+    },
+    {
+      "attraction_id": "AT505",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "high",
+      "impact_minutes": 39,
+      "status": "resolved",
+      "maintenance_cost": 7936.6
+    },
+    {
+      "attraction_id": "AT505",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "low",
+      "impact_minutes": 29,
+      "status": "resolved",
+      "maintenance_cost": 7883.58
+    },
+    {
+      "attraction_id": "AT505",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "high",
+      "impact_minutes": 17,
+      "status": "in_progress",
+      "maintenance_cost": 8359.62
+    },
+    {
+      "attraction_id": "AT970",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "high",
+      "impact_minutes": 51,
+      "status": "resolved",
+      "maintenance_cost": 5637.85
+    },
+    {
+      "attraction_id": "AT632",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "high",
+      "impact_minutes": 33,
+      "status": "pending",
+      "maintenance_cost": 7393.42
+    },
+    {
+      "attraction_id": "AT716",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "low",
+      "impact_minutes": 41,
+      "status": "resolved",
+      "maintenance_cost": 6296.53
+    },
+    {
+      "attraction_id": "AT716",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "medium",
+      "impact_minutes": 47,
+      "status": "resolved",
+      "maintenance_cost": 1937.43
+    },
+    {
+      "attraction_id": "AT825",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "medium",
+      "impact_minutes": 31,
+      "status": "pending",
+      "maintenance_cost": 8125.68
+    },
+    {
+      "attraction_id": "AT825",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "low",
+      "impact_minutes": 57,
+      "status": "pending",
+      "maintenance_cost": 7446.67
+    },
+    {
+      "attraction_id": "AT825",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "low",
+      "impact_minutes": 40,
+      "status": "in_progress",
+      "maintenance_cost": 4945.49
+    },
+    {
+      "attraction_id": "AT825",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "high",
+      "impact_minutes": 56,
+      "status": "pending",
+      "maintenance_cost": 7501.56
+    },
+    {
+      "attraction_id": "AT699",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "medium",
+      "impact_minutes": 58,
+      "status": "in_progress",
+      "maintenance_cost": 4441.13
+    },
+    {
+      "attraction_id": "AT699",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "medium",
+      "impact_minutes": 54,
+      "status": "in_progress",
+      "maintenance_cost": 9915.45
+    },
+    {
+      "attraction_id": "AT699",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "medium",
+      "impact_minutes": 48,
+      "status": "pending",
+      "maintenance_cost": 8397.45
+    },
+    {
+      "attraction_id": "AT699",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "low",
+      "impact_minutes": 56,
+      "status": "in_progress",
+      "maintenance_cost": 1047.55
+    },
+    {
+      "attraction_id": "AT751",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "high",
+      "impact_minutes": 30,
+      "status": "resolved",
+      "maintenance_cost": 1550.89
+    },
+    {
+      "attraction_id": "AT751",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "low",
+      "impact_minutes": 36,
+      "status": "in_progress",
+      "maintenance_cost": 7528.81
+    },
+    {
+      "attraction_id": "AT671",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "high",
+      "impact_minutes": 36,
+      "status": "resolved",
+      "maintenance_cost": 5280.73
+    },
+    {
+      "attraction_id": "AT671",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "high",
+      "impact_minutes": 34,
+      "status": "resolved",
+      "maintenance_cost": 7413.35
+    },
+    {
+      "attraction_id": "AT671",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "medium",
+      "impact_minutes": 13,
+      "status": "resolved",
+      "maintenance_cost": 6182.74
+    },
+    {
+      "attraction_id": "AT671",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "low",
+      "impact_minutes": 49,
+      "status": "pending",
+      "maintenance_cost": 3831.12
+    },
+    {
+      "attraction_id": "AT842",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "high",
+      "impact_minutes": 17,
+      "status": "resolved",
+      "maintenance_cost": 266.51
+    },
+    {
+      "attraction_id": "AT842",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "low",
+      "impact_minutes": 27,
+      "status": "pending",
+      "maintenance_cost": 3589.21
+    },
+    {
+      "attraction_id": "AT842",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "low",
+      "impact_minutes": 34,
+      "status": "pending",
+      "maintenance_cost": 6243.17
+    },
+    {
+      "attraction_id": "AT935",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "medium",
+      "impact_minutes": 44,
+      "status": "pending",
+      "maintenance_cost": 6951.85
+    },
+    {
+      "attraction_id": "AT547",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "low",
+      "impact_minutes": 15,
+      "status": "in_progress",
+      "maintenance_cost": 8315.51
+    },
+    {
+      "attraction_id": "AT547",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "high",
+      "impact_minutes": 54,
+      "status": "resolved",
+      "maintenance_cost": 5679.38
+    },
+    {
+      "attraction_id": "AT547",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "low",
+      "impact_minutes": 55,
+      "status": "pending",
+      "maintenance_cost": 4101.29
+    },
+    {
+      "attraction_id": "AT547",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "low",
+      "impact_minutes": 53,
+      "status": "resolved",
+      "maintenance_cost": 8866.96
+    },
+    {
+      "attraction_id": "AT789",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "high",
+      "impact_minutes": 24,
+      "status": "pending",
+      "maintenance_cost": 307.05
+    },
+    {
+      "attraction_id": "AT606",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "low",
+      "impact_minutes": 41,
+      "status": "in_progress",
+      "maintenance_cost": 7084.95
+    },
+    {
+      "attraction_id": "AT606",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "medium",
+      "impact_minutes": 30,
+      "status": "pending",
+      "maintenance_cost": 5476.22
+    },
+    {
+      "attraction_id": "AT425",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "high",
+      "impact_minutes": 40,
+      "status": "in_progress",
+      "maintenance_cost": 5698.22
+    },
+    {
+      "attraction_id": "AT690",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "low",
+      "impact_minutes": 40,
+      "status": "in_progress",
+      "maintenance_cost": 577.31
+    },
+    {
+      "attraction_id": "AT690",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "high",
+      "impact_minutes": 49,
+      "status": "pending",
+      "maintenance_cost": 6465.69
+    },
+    {
+      "attraction_id": "AT254",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "low",
+      "impact_minutes": 18,
+      "status": "in_progress",
+      "maintenance_cost": 6983.93
+    },
+    {
+      "attraction_id": "AT254",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "high",
+      "impact_minutes": 55,
+      "status": "in_progress",
+      "maintenance_cost": 9631.62
+    },
+    {
+      "attraction_id": "AT732",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "medium",
+      "impact_minutes": 10,
+      "status": "resolved",
+      "maintenance_cost": 8545.34
+    },
+    {
+      "attraction_id": "AT769",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "high",
+      "impact_minutes": 38,
+      "status": "resolved",
+      "maintenance_cost": 2526.75
+    },
+    {
+      "attraction_id": "AT769",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "medium",
+      "impact_minutes": 48,
+      "status": "pending",
+      "maintenance_cost": 8607.04
+    },
+    {
+      "attraction_id": "AT769",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "high",
+      "impact_minutes": 14,
+      "status": "resolved",
+      "maintenance_cost": 4173.98
+    },
+    {
+      "attraction_id": "AT705",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "high",
+      "impact_minutes": 56,
+      "status": "resolved",
+      "maintenance_cost": 5752.86
+    },
+    {
+      "attraction_id": "AT705",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "medium",
+      "impact_minutes": 29,
+      "status": "resolved",
+      "maintenance_cost": 8793.65
+    },
+    {
+      "attraction_id": "AT705",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "medium",
+      "impact_minutes": 23,
+      "status": "in_progress",
+      "maintenance_cost": 1737.82
+    },
+    {
+      "attraction_id": "AT639",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "high",
+      "impact_minutes": 45,
+      "status": "pending",
+      "maintenance_cost": 2391.83
+    },
+    {
+      "attraction_id": "AT332",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "medium",
+      "impact_minutes": 16,
+      "status": "resolved",
+      "maintenance_cost": 2470.27
+    },
+    {
+      "attraction_id": "AT332",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "low",
+      "impact_minutes": 60,
+      "status": "in_progress",
+      "maintenance_cost": 7115.17
+    },
+    {
+      "attraction_id": "AT332",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "medium",
+      "impact_minutes": 12,
+      "status": "in_progress",
+      "maintenance_cost": 6476.74
+    },
+    {
+      "attraction_id": "AT325",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "low",
+      "impact_minutes": 13,
+      "status": "pending",
+      "maintenance_cost": 9816.09
+    },
+    {
+      "attraction_id": "AT325",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "medium",
+      "impact_minutes": 51,
+      "status": "resolved",
+      "maintenance_cost": 216.2
+    },
+    {
+      "attraction_id": "AT400",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "high",
+      "impact_minutes": 33,
+      "status": "pending",
+      "maintenance_cost": 7544.17
+    },
+    {
+      "attraction_id": "AT915",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "low",
+      "impact_minutes": 55,
+      "status": "in_progress",
+      "maintenance_cost": 2884.06
+    },
+    {
+      "attraction_id": "AT915",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "medium",
+      "impact_minutes": 37,
+      "status": "in_progress",
+      "maintenance_cost": 6872.84
+    },
+    {
+      "attraction_id": "AT915",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "low",
+      "impact_minutes": 18,
+      "status": "pending",
+      "maintenance_cost": 1383.95
+    },
+    {
+      "attraction_id": "AT915",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "low",
+      "impact_minutes": 41,
+      "status": "resolved",
+      "maintenance_cost": 6024.18
+    },
+    {
+      "attraction_id": "AT626",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "low",
+      "impact_minutes": 23,
+      "status": "resolved",
+      "maintenance_cost": 8797.74
+    },
+    {
+      "attraction_id": "AT626",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "high",
+      "impact_minutes": 34,
+      "status": "resolved",
+      "maintenance_cost": 3645.13
+    },
+    {
+      "attraction_id": "AT626",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "medium",
+      "impact_minutes": 52,
+      "status": "in_progress",
+      "maintenance_cost": 4850.02
+    },
+    {
+      "attraction_id": "AT626",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "low",
+      "impact_minutes": 37,
+      "status": "in_progress",
+      "maintenance_cost": 8707.47
+    },
+    {
+      "attraction_id": "AT839",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "medium",
+      "impact_minutes": 26,
+      "status": "in_progress",
+      "maintenance_cost": 4232.21
+    },
+    {
+      "attraction_id": "AT999",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "medium",
+      "impact_minutes": 32,
+      "status": "pending",
+      "maintenance_cost": 762.39
+    },
+    {
+      "attraction_id": "AT642",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "low",
+      "impact_minutes": 46,
+      "status": "in_progress",
+      "maintenance_cost": 3262.96
+    },
+    {
+      "attraction_id": "AT642",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "high",
+      "impact_minutes": 10,
+      "status": "in_progress",
+      "maintenance_cost": 6311.54
+    },
+    {
+      "attraction_id": "AT319",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "high",
+      "impact_minutes": 17,
+      "status": "pending",
+      "maintenance_cost": 3012.45
+    },
+    {
+      "attraction_id": "AT319",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "low",
+      "impact_minutes": 18,
+      "status": "in_progress",
+      "maintenance_cost": 4940.32
+    },
+    {
+      "attraction_id": "AT319",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "low",
+      "impact_minutes": 34,
+      "status": "pending",
+      "maintenance_cost": 2372.06
+    },
+    {
+      "attraction_id": "AT270",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "high",
+      "impact_minutes": 34,
+      "status": "pending",
+      "maintenance_cost": 6935.46
+    },
+    {
+      "attraction_id": "AT270",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "medium",
+      "impact_minutes": 52,
+      "status": "pending",
+      "maintenance_cost": 2396.31
+    },
+    {
+      "attraction_id": "AT963",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "low",
+      "impact_minutes": 52,
+      "status": "pending",
+      "maintenance_cost": 4811.29
+    },
+    {
+      "attraction_id": "AT963",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "low",
+      "impact_minutes": 37,
+      "status": "pending",
+      "maintenance_cost": 2259.27
+    },
+    {
+      "attraction_id": "AT963",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "medium",
+      "impact_minutes": 39,
+      "status": "resolved",
+      "maintenance_cost": 9377.88
+    },
+    {
+      "attraction_id": "AT191",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "medium",
+      "impact_minutes": 35,
+      "status": "pending",
+      "maintenance_cost": 9152.85
+    },
+    {
+      "attraction_id": "AT191",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "medium",
+      "impact_minutes": 44,
+      "status": "resolved",
+      "maintenance_cost": 1119.0
+    },
+    {
+      "attraction_id": "AT232",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "high",
+      "impact_minutes": 32,
+      "status": "in_progress",
+      "maintenance_cost": 570.73
+    },
+    {
+      "attraction_id": "AT695",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "low",
+      "impact_minutes": 54,
+      "status": "in_progress",
+      "maintenance_cost": 8857.44
+    },
+    {
+      "attraction_id": "AT695",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "low",
+      "impact_minutes": 18,
+      "status": "in_progress",
+      "maintenance_cost": 9655.37
+    },
+    {
+      "attraction_id": "AT695",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "medium",
+      "impact_minutes": 13,
+      "status": "resolved",
+      "maintenance_cost": 7353.89
+    },
+    {
+      "attraction_id": "AT887",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "medium",
+      "impact_minutes": 36,
+      "status": "resolved",
+      "maintenance_cost": 1781.48
+    },
+    {
+      "attraction_id": "AT887",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "medium",
+      "impact_minutes": 56,
+      "status": "in_progress",
+      "maintenance_cost": 7247.96
+    },
+    {
+      "attraction_id": "AT149",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "high",
+      "impact_minutes": 13,
+      "status": "resolved",
+      "maintenance_cost": 989.77
+    },
+    {
+      "attraction_id": "AT149",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "low",
+      "impact_minutes": 24,
+      "status": "resolved",
+      "maintenance_cost": 4324.43
+    },
+    {
+      "attraction_id": "AT149",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "high",
+      "impact_minutes": 58,
+      "status": "in_progress",
+      "maintenance_cost": 8680.12
+    },
+    {
+      "attraction_id": "AT149",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "medium",
+      "impact_minutes": 59,
+      "status": "resolved",
+      "maintenance_cost": 824.88
+    },
+    {
+      "attraction_id": "AT891",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "medium",
+      "impact_minutes": 31,
+      "status": "resolved",
+      "maintenance_cost": 7488.34
+    },
+    {
+      "attraction_id": "AT891",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "high",
+      "impact_minutes": 56,
+      "status": "in_progress",
+      "maintenance_cost": 2062.67
+    },
+    {
+      "attraction_id": "AT334",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "high",
+      "impact_minutes": 19,
+      "status": "resolved",
+      "maintenance_cost": 521.96
+    },
+    {
+      "attraction_id": "AT334",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "medium",
+      "impact_minutes": 49,
+      "status": "pending",
+      "maintenance_cost": 2326.26
+    },
+    {
+      "attraction_id": "AT334",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "low",
+      "impact_minutes": 16,
+      "status": "pending",
+      "maintenance_cost": 3815.84
+    },
+    {
+      "attraction_id": "AT334",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "medium",
+      "impact_minutes": 23,
+      "status": "in_progress",
+      "maintenance_cost": 1136.29
+    },
+    {
+      "attraction_id": "AT709",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "medium",
+      "impact_minutes": 28,
+      "status": "pending",
+      "maintenance_cost": 7255.21
+    },
+    {
+      "attraction_id": "AT185",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "medium",
+      "impact_minutes": 56,
+      "status": "resolved",
+      "maintenance_cost": 9117.84
+    },
+    {
+      "attraction_id": "AT185",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "high",
+      "impact_minutes": 48,
+      "status": "pending",
+      "maintenance_cost": 4008.62
+    },
+    {
+      "attraction_id": "AT337",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "low",
+      "impact_minutes": 56,
+      "status": "pending",
+      "maintenance_cost": 2902.35
+    },
+    {
+      "attraction_id": "AT337",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "medium",
+      "impact_minutes": 36,
+      "status": "resolved",
+      "maintenance_cost": 1493.77
+    },
+    {
+      "attraction_id": "AT199",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "high",
+      "impact_minutes": 21,
+      "status": "pending",
+      "maintenance_cost": 9302.01
+    },
+    {
+      "attraction_id": "AT199",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "low",
+      "impact_minutes": 59,
+      "status": "in_progress",
+      "maintenance_cost": 8921.11
+    },
+    {
+      "attraction_id": "AT199",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "high",
+      "impact_minutes": 52,
+      "status": "resolved",
+      "maintenance_cost": 5324.96
+    },
+    {
+      "attraction_id": "AT373",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "medium",
+      "impact_minutes": 45,
+      "status": "pending",
+      "maintenance_cost": 339.16
+    },
+    {
+      "attraction_id": "AT373",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "medium",
+      "impact_minutes": 13,
+      "status": "in_progress",
+      "maintenance_cost": 396.65
+    },
+    {
+      "attraction_id": "AT373",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "low",
+      "impact_minutes": 47,
+      "status": "pending",
+      "maintenance_cost": 5232.79
+    },
+    {
+      "attraction_id": "AT373",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "high",
+      "impact_minutes": 30,
+      "status": "resolved",
+      "maintenance_cost": 1579.15
+    },
+    {
+      "attraction_id": "AT249",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "medium",
+      "impact_minutes": 37,
+      "status": "pending",
+      "maintenance_cost": 2169.92
+    },
+    {
+      "attraction_id": "AT249",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "low",
+      "impact_minutes": 31,
+      "status": "pending",
+      "maintenance_cost": 5048.1
+    },
+    {
+      "attraction_id": "AT249",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "high",
+      "impact_minutes": 44,
+      "status": "resolved",
+      "maintenance_cost": 2246.41
+    },
+    {
+      "attraction_id": "AT957",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "low",
+      "impact_minutes": 16,
+      "status": "in_progress",
+      "maintenance_cost": 4679.35
+    },
+    {
+      "attraction_id": "AT957",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "medium",
+      "impact_minutes": 12,
+      "status": "pending",
+      "maintenance_cost": 3955.21
+    },
+    {
+      "attraction_id": "AT385",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "medium",
+      "impact_minutes": 53,
+      "status": "resolved",
+      "maintenance_cost": 3869.8
+    },
+    {
+      "attraction_id": "AT385",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "low",
+      "impact_minutes": 47,
+      "status": "in_progress",
+      "maintenance_cost": 3772.61
+    },
+    {
+      "attraction_id": "AT385",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "high",
+      "impact_minutes": 42,
+      "status": "in_progress",
+      "maintenance_cost": 5280.32
+    },
+    {
+      "attraction_id": "AT385",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "high",
+      "impact_minutes": 37,
+      "status": "resolved",
+      "maintenance_cost": 3540.35
+    },
+    {
+      "attraction_id": "AT355",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "low",
+      "impact_minutes": 17,
+      "status": "pending",
+      "maintenance_cost": 8318.05
+    },
+    {
+      "attraction_id": "AT355",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "high",
+      "impact_minutes": 17,
+      "status": "resolved",
+      "maintenance_cost": 8153.74
+    },
+    {
+      "attraction_id": "AT683",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "high",
+      "impact_minutes": 17,
+      "status": "resolved",
+      "maintenance_cost": 1874.42
+    },
+    {
+      "attraction_id": "AT683",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "medium",
+      "impact_minutes": 31,
+      "status": "pending",
+      "maintenance_cost": 2980.09
+    },
+    {
+      "attraction_id": "AT273",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "medium",
+      "impact_minutes": 57,
+      "status": "pending",
+      "maintenance_cost": 5679.06
+    },
+    {
+      "attraction_id": "AT273",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "low",
+      "impact_minutes": 23,
+      "status": "in_progress",
+      "maintenance_cost": 7398.58
+    },
+    {
+      "attraction_id": "AT883",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "low",
+      "impact_minutes": 25,
+      "status": "in_progress",
+      "maintenance_cost": 7618.69
+    },
+    {
+      "attraction_id": "AT883",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "high",
+      "impact_minutes": 38,
+      "status": "in_progress",
+      "maintenance_cost": 3960.97
+    },
+    {
+      "attraction_id": "AT188",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "low",
+      "impact_minutes": 60,
+      "status": "in_progress",
+      "maintenance_cost": 1644.65
+    },
+    {
+      "attraction_id": "AT188",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "low",
+      "impact_minutes": 50,
+      "status": "resolved",
+      "maintenance_cost": 8325.93
+    },
+    {
+      "attraction_id": "AT188",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "low",
+      "impact_minutes": 25,
+      "status": "pending",
+      "maintenance_cost": 7872.37
+    },
+    {
+      "attraction_id": "AT188",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "high",
+      "impact_minutes": 43,
+      "status": "in_progress",
+      "maintenance_cost": 8192.44
+    },
+    {
+      "attraction_id": "AT628",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "high",
+      "impact_minutes": 38,
+      "status": "in_progress",
+      "maintenance_cost": 3634.21
+    },
+    {
+      "attraction_id": "AT628",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "low",
+      "impact_minutes": 47,
+      "status": "pending",
+      "maintenance_cost": 7241.58
+    },
+    {
+      "attraction_id": "AT628",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "low",
+      "impact_minutes": 14,
+      "status": "pending",
+      "maintenance_cost": 2339.29
+    },
+    {
+      "attraction_id": "AT441",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "medium",
+      "impact_minutes": 57,
+      "status": "pending",
+      "maintenance_cost": 9597.37
+    },
+    {
+      "attraction_id": "AT441",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "medium",
+      "impact_minutes": 29,
+      "status": "resolved",
+      "maintenance_cost": 9001.74
+    },
+    {
+      "attraction_id": "AT441",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "medium",
+      "impact_minutes": 56,
+      "status": "resolved",
+      "maintenance_cost": 3726.74
+    },
+    {
+      "attraction_id": "AT292",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "medium",
+      "impact_minutes": 49,
+      "status": "resolved",
+      "maintenance_cost": 6759.37
+    },
+    {
+      "attraction_id": "AT292",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "medium",
+      "impact_minutes": 11,
+      "status": "resolved",
+      "maintenance_cost": 6089.9
+    },
+    {
+      "attraction_id": "AT292",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "low",
+      "impact_minutes": 56,
+      "status": "resolved",
+      "maintenance_cost": 1469.41
+    },
+    {
+      "attraction_id": "AT292",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "medium",
+      "impact_minutes": 16,
+      "status": "pending",
+      "maintenance_cost": 451.91
+    },
+    {
+      "attraction_id": "AT137",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "high",
+      "impact_minutes": 55,
+      "status": "pending",
+      "maintenance_cost": 7200.68
+    },
+    {
+      "attraction_id": "AT931",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "high",
+      "impact_minutes": 31,
+      "status": "in_progress",
+      "maintenance_cost": 479.5
+    },
+    {
+      "attraction_id": "AT931",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "medium",
+      "impact_minutes": 34,
+      "status": "resolved",
+      "maintenance_cost": 5229.47
+    },
+    {
+      "attraction_id": "AT511",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "medium",
+      "impact_minutes": 21,
+      "status": "pending",
+      "maintenance_cost": 9507.97
+    },
+    {
+      "attraction_id": "AT511",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "low",
+      "impact_minutes": 12,
+      "status": "pending",
+      "maintenance_cost": 3326.22
+    },
+    {
+      "attraction_id": "AT536",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "high",
+      "impact_minutes": 41,
+      "status": "in_progress",
+      "maintenance_cost": 8415.01
+    },
+    {
+      "attraction_id": "AT536",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "high",
+      "impact_minutes": 46,
+      "status": "in_progress",
+      "maintenance_cost": 5598.25
+    },
+    {
+      "attraction_id": "AT550",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "high",
+      "impact_minutes": 59,
+      "status": "pending",
+      "maintenance_cost": 7987.8
+    },
+    {
+      "attraction_id": "AT550",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "high",
+      "impact_minutes": 15,
+      "status": "in_progress",
+      "maintenance_cost": 8410.61
+    },
+    {
+      "attraction_id": "AT853",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "low",
+      "impact_minutes": 36,
+      "status": "pending",
+      "maintenance_cost": 7575.38
+    },
+    {
+      "attraction_id": "AT853",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "low",
+      "impact_minutes": 47,
+      "status": "pending",
+      "maintenance_cost": 4074.42
+    },
+    {
+      "attraction_id": "AT853",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "medium",
+      "impact_minutes": 19,
+      "status": "in_progress",
+      "maintenance_cost": 8048.14
+    },
+    {
+      "attraction_id": "AT964",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "high",
+      "impact_minutes": 60,
+      "status": "in_progress",
+      "maintenance_cost": 850.45
+    },
+    {
+      "attraction_id": "AT964",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "high",
+      "impact_minutes": 42,
+      "status": "resolved",
+      "maintenance_cost": 8188.22
+    },
+    {
+      "attraction_id": "AT964",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "medium",
+      "impact_minutes": 11,
+      "status": "in_progress",
+      "maintenance_cost": 6767.16
+    },
+    {
+      "attraction_id": "AT805",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "high",
+      "impact_minutes": 28,
+      "status": "pending",
+      "maintenance_cost": 7438.64
+    },
+    {
+      "attraction_id": "AT805",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "low",
+      "impact_minutes": 57,
+      "status": "in_progress",
+      "maintenance_cost": 7509.34
+    },
+    {
+      "attraction_id": "AT805",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "low",
+      "impact_minutes": 22,
+      "status": "resolved",
+      "maintenance_cost": 4926.12
+    },
+    {
+      "attraction_id": "AT805",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "medium",
+      "impact_minutes": 40,
+      "status": "in_progress",
+      "maintenance_cost": 1413.81
+    },
+    {
+      "attraction_id": "AT647",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "low",
+      "impact_minutes": 35,
+      "status": "in_progress",
+      "maintenance_cost": 9156.3
+    },
+    {
+      "attraction_id": "AT647",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "high",
+      "impact_minutes": 27,
+      "status": "in_progress",
+      "maintenance_cost": 2049.96
+    },
+    {
+      "attraction_id": "AT647",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "high",
+      "impact_minutes": 11,
+      "status": "resolved",
+      "maintenance_cost": 4816.77
+    },
+    {
+      "attraction_id": "AT647",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "medium",
+      "impact_minutes": 50,
+      "status": "in_progress",
+      "maintenance_cost": 268.91
+    },
+    {
+      "attraction_id": "AT796",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "high",
+      "impact_minutes": 26,
+      "status": "pending",
+      "maintenance_cost": 4040.4
+    },
+    {
+      "attraction_id": "AT796",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "low",
+      "impact_minutes": 16,
+      "status": "pending",
+      "maintenance_cost": 1942.91
+    },
+    {
+      "attraction_id": "AT796",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "low",
+      "impact_minutes": 26,
+      "status": "pending",
+      "maintenance_cost": 5815.98
+    },
+    {
+      "attraction_id": "AT275",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "medium",
+      "impact_minutes": 50,
+      "status": "pending",
+      "maintenance_cost": 4652.81
+    },
+    {
+      "attraction_id": "AT275",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "high",
+      "impact_minutes": 37,
+      "status": "pending",
+      "maintenance_cost": 7656.47
+    },
+    {
+      "attraction_id": "AT407",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "low",
+      "impact_minutes": 15,
+      "status": "resolved",
+      "maintenance_cost": 3445.02
+    },
+    {
+      "attraction_id": "AT497",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "high",
+      "impact_minutes": 52,
+      "status": "resolved",
+      "maintenance_cost": 8759.98
+    },
+    {
+      "attraction_id": "AT497",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "high",
+      "impact_minutes": 14,
+      "status": "resolved",
+      "maintenance_cost": 5398.1
+    },
+    {
+      "attraction_id": "AT497",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "medium",
+      "impact_minutes": 30,
+      "status": "in_progress",
+      "maintenance_cost": 2808.61
+    },
+    {
+      "attraction_id": "AT817",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "high",
+      "impact_minutes": 50,
+      "status": "in_progress",
+      "maintenance_cost": 3588.83
+    },
+    {
+      "attraction_id": "AT555",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "medium",
+      "impact_minutes": 35,
+      "status": "in_progress",
+      "maintenance_cost": 7044.42
+    },
+    {
+      "attraction_id": "AT290",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "high",
+      "impact_minutes": 53,
+      "status": "pending",
+      "maintenance_cost": 6722.54
+    },
+    {
+      "attraction_id": "AT290",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "low",
+      "impact_minutes": 28,
+      "status": "resolved",
+      "maintenance_cost": 2308.99
+    },
+    {
+      "attraction_id": "AT290",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "high",
+      "impact_minutes": 46,
+      "status": "resolved",
+      "maintenance_cost": 5951.16
+    },
+    {
+      "attraction_id": "AT290",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "high",
+      "impact_minutes": 34,
+      "status": "in_progress",
+      "maintenance_cost": 3059.4
+    },
+    {
+      "attraction_id": "AT418",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "low",
+      "impact_minutes": 47,
+      "status": "resolved",
+      "maintenance_cost": 7780.07
+    },
+    {
+      "attraction_id": "AT418",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "high",
+      "impact_minutes": 19,
+      "status": "pending",
+      "maintenance_cost": 6879.92
+    },
+    {
+      "attraction_id": "AT418",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "low",
+      "impact_minutes": 56,
+      "status": "resolved",
+      "maintenance_cost": 7036.03
+    },
+    {
+      "attraction_id": "AT418",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "low",
+      "impact_minutes": 49,
+      "status": "resolved",
+      "maintenance_cost": 8840.04
+    },
+    {
+      "attraction_id": "AT846",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "medium",
+      "impact_minutes": 20,
+      "status": "in_progress",
+      "maintenance_cost": 2143.64
+    },
+    {
+      "attraction_id": "AT846",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "high",
+      "impact_minutes": 19,
+      "status": "resolved",
+      "maintenance_cost": 5669.97
+    },
+    {
+      "attraction_id": "AT451",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "low",
+      "impact_minutes": 38,
+      "status": "in_progress",
+      "maintenance_cost": 8614.94
+    },
+    {
+      "attraction_id": "AT451",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "low",
+      "impact_minutes": 39,
+      "status": "pending",
+      "maintenance_cost": 9162.8
+    },
+    {
+      "attraction_id": "AT451",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "high",
+      "impact_minutes": 21,
+      "status": "in_progress",
+      "maintenance_cost": 9311.1
+    },
+    {
+      "attraction_id": "AT339",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "medium",
+      "impact_minutes": 41,
+      "status": "pending",
+      "maintenance_cost": 3013.62
+    },
+    {
+      "attraction_id": "AT339",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "low",
+      "impact_minutes": 53,
+      "status": "resolved",
+      "maintenance_cost": 5878.26
+    },
+    {
+      "attraction_id": "AT339",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "high",
+      "impact_minutes": 57,
+      "status": "pending",
+      "maintenance_cost": 3583.16
+    },
+    {
+      "attraction_id": "AT469",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "medium",
+      "impact_minutes": 23,
+      "status": "pending",
+      "maintenance_cost": 3156.95
+    },
+    {
+      "attraction_id": "AT349",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "high",
+      "impact_minutes": 47,
+      "status": "resolved",
+      "maintenance_cost": 5254.57
+    },
+    {
+      "attraction_id": "AT723",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "medium",
+      "impact_minutes": 39,
+      "status": "pending",
+      "maintenance_cost": 3229.21
+    },
+    {
+      "attraction_id": "AT723",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "high",
+      "impact_minutes": 44,
+      "status": "in_progress",
+      "maintenance_cost": 5141.36
+    },
+    {
+      "attraction_id": "AT723",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "high",
+      "impact_minutes": 11,
+      "status": "in_progress",
+      "maintenance_cost": 4600.48
+    },
+    {
+      "attraction_id": "AT723",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "low",
+      "impact_minutes": 20,
+      "status": "pending",
+      "maintenance_cost": 6198.99
+    },
+    {
+      "attraction_id": "AT209",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "medium",
+      "impact_minutes": 18,
+      "status": "pending",
+      "maintenance_cost": 5094.62
+    },
+    {
+      "attraction_id": "AT209",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "low",
+      "impact_minutes": 39,
+      "status": "pending",
+      "maintenance_cost": 1140.09
+    },
+    {
+      "attraction_id": "AT209",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "medium",
+      "impact_minutes": 15,
+      "status": "resolved",
+      "maintenance_cost": 5795.54
+    },
+    {
+      "attraction_id": "AT209",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "medium",
+      "impact_minutes": 18,
+      "status": "pending",
+      "maintenance_cost": 6592.1
+    },
+    {
+      "attraction_id": "AT949",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "low",
+      "impact_minutes": 36,
+      "status": "resolved",
+      "maintenance_cost": 5849.47
+    },
+    {
+      "attraction_id": "AT949",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "high",
+      "impact_minutes": 17,
+      "status": "resolved",
+      "maintenance_cost": 1313.66
+    },
+    {
+      "attraction_id": "AT345",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "medium",
+      "impact_minutes": 43,
+      "status": "in_progress",
+      "maintenance_cost": 7836.2
+    },
+    {
+      "attraction_id": "AT345",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "high",
+      "impact_minutes": 22,
+      "status": "in_progress",
+      "maintenance_cost": 2673.84
+    },
+    {
+      "attraction_id": "AT701",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "high",
+      "impact_minutes": 29,
+      "status": "resolved",
+      "maintenance_cost": 1951.68
+    },
+    {
+      "attraction_id": "AT701",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "medium",
+      "impact_minutes": 34,
+      "status": "in_progress",
+      "maintenance_cost": 6282.87
+    },
+    {
+      "attraction_id": "AT701",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "high",
+      "impact_minutes": 17,
+      "status": "pending",
+      "maintenance_cost": 8675.58
+    },
+    {
+      "attraction_id": "AT261",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "medium",
+      "impact_minutes": 40,
+      "status": "in_progress",
+      "maintenance_cost": 1109.11
+    },
+    {
+      "attraction_id": "AT261",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "high",
+      "impact_minutes": 29,
+      "status": "in_progress",
+      "maintenance_cost": 1808.56
+    },
+    {
+      "attraction_id": "AT404",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "medium",
+      "impact_minutes": 38,
+      "status": "resolved",
+      "maintenance_cost": 9813.26
+    },
+    {
+      "attraction_id": "AT404",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "high",
+      "impact_minutes": 59,
+      "status": "pending",
+      "maintenance_cost": 1814.81
+    },
+    {
+      "attraction_id": "AT404",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "medium",
+      "impact_minutes": 10,
+      "status": "pending",
+      "maintenance_cost": 7198.45
+    },
+    {
+      "attraction_id": "AT404",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "high",
+      "impact_minutes": 10,
+      "status": "resolved",
+      "maintenance_cost": 1190.26
+    },
+    {
+      "attraction_id": "AT328",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "low",
+      "impact_minutes": 37,
+      "status": "resolved",
+      "maintenance_cost": 4695.03
+    },
+    {
+      "attraction_id": "AT328",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "high",
+      "impact_minutes": 15,
+      "status": "pending",
+      "maintenance_cost": 3096.8
+    },
+    {
+      "attraction_id": "AT844",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "low",
+      "impact_minutes": 11,
+      "status": "resolved",
+      "maintenance_cost": 8635.37
+    },
+    {
+      "attraction_id": "AT844",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "low",
+      "impact_minutes": 48,
+      "status": "resolved",
+      "maintenance_cost": 4482.03
+    },
+    {
+      "attraction_id": "AT354",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "low",
+      "impact_minutes": 47,
+      "status": "resolved",
+      "maintenance_cost": 4314.95
+    },
+    {
+      "attraction_id": "AT354",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "high",
+      "impact_minutes": 27,
+      "status": "pending",
+      "maintenance_cost": 1153.19
+    },
+    {
+      "attraction_id": "AT756",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "low",
+      "impact_minutes": 22,
+      "status": "pending",
+      "maintenance_cost": 2099.92
+    },
+    {
+      "attraction_id": "AT922",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "high",
+      "impact_minutes": 30,
+      "status": "in_progress",
+      "maintenance_cost": 2274.65
+    },
+    {
+      "attraction_id": "AT656",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "medium",
+      "impact_minutes": 17,
+      "status": "resolved",
+      "maintenance_cost": 4085.78
+    },
+    {
+      "attraction_id": "AT890",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "medium",
+      "impact_minutes": 59,
+      "status": "resolved",
+      "maintenance_cost": 9721.63
+    },
+    {
+      "attraction_id": "AT890",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "low",
+      "impact_minutes": 34,
+      "status": "resolved",
+      "maintenance_cost": 8118.62
+    },
+    {
+      "attraction_id": "AT553",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "high",
+      "impact_minutes": 34,
+      "status": "pending",
+      "maintenance_cost": 3676.53
+    },
+    {
+      "attraction_id": "AT440",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "medium",
+      "impact_minutes": 43,
+      "status": "in_progress",
+      "maintenance_cost": 4616.19
+    },
+    {
+      "attraction_id": "AT303",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "low",
+      "impact_minutes": 23,
+      "status": "pending",
+      "maintenance_cost": 9111.99
+    },
+    {
+      "attraction_id": "AT303",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "low",
+      "impact_minutes": 40,
+      "status": "resolved",
+      "maintenance_cost": 5025.08
+    },
+    {
+      "attraction_id": "AT202",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "low",
+      "impact_minutes": 44,
+      "status": "resolved",
+      "maintenance_cost": 3891.19
+    },
+    {
+      "attraction_id": "AT202",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "medium",
+      "impact_minutes": 53,
+      "status": "in_progress",
+      "maintenance_cost": 4838.97
+    },
+    {
+      "attraction_id": "AT879",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "low",
+      "impact_minutes": 49,
+      "status": "resolved",
+      "maintenance_cost": 2771.66
+    },
+    {
+      "attraction_id": "AT879",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "low",
+      "impact_minutes": 50,
+      "status": "pending",
+      "maintenance_cost": 5932.74
+    },
+    {
+      "attraction_id": "AT879",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "high",
+      "impact_minutes": 13,
+      "status": "pending",
+      "maintenance_cost": 7884.72
+    },
+    {
+      "attraction_id": "AT316",
+      "task": "inspection",
+      "equipment": "scanner",
+      "severity": "low",
+      "impact_minutes": 54,
+      "status": "in_progress",
+      "maintenance_cost": 5658.17
+    },
+    {
+      "attraction_id": "AT316",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "medium",
+      "impact_minutes": 12,
+      "status": "in_progress",
+      "maintenance_cost": 3123.52
+    },
+    {
+      "attraction_id": "AT316",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "medium",
+      "impact_minutes": 12,
+      "status": "in_progress",
+      "maintenance_cost": 7675.77
+    },
+    {
+      "attraction_id": "AT409",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "high",
+      "impact_minutes": 57,
+      "status": "in_progress",
+      "maintenance_cost": 5817.41
+    },
+    {
+      "attraction_id": "AT409",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "low",
+      "impact_minutes": 31,
+      "status": "resolved",
+      "maintenance_cost": 9796.92
+    },
+    {
+      "attraction_id": "AT759",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "medium",
+      "impact_minutes": 20,
+      "status": "in_progress",
+      "maintenance_cost": 5375.23
+    },
+    {
+      "attraction_id": "AT759",
+      "task": "safety_check",
+      "equipment": "harness_system",
+      "severity": "low",
+      "impact_minutes": 36,
+      "status": "in_progress",
+      "maintenance_cost": 4635.61
+    },
+    {
+      "attraction_id": "AT759",
+      "task": "inspection",
+      "equipment": "sensors",
+      "severity": "medium",
+      "impact_minutes": 35,
+      "status": "in_progress",
+      "maintenance_cost": 7349.88
+    },
+    {
+      "attraction_id": "AT759",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "high",
+      "impact_minutes": 25,
+      "status": "resolved",
+      "maintenance_cost": 8316.83
+    },
+    {
+      "attraction_id": "AT886",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "low",
+      "impact_minutes": 54,
+      "status": "pending",
+      "maintenance_cost": 5565.17
+    },
+    {
+      "attraction_id": "AT886",
+      "task": "cleaning",
+      "equipment": "air_dryers",
+      "severity": "low",
+      "impact_minutes": 54,
+      "status": "resolved",
+      "maintenance_cost": 680.38
+    },
+    {
+      "attraction_id": "AT886",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "low",
+      "impact_minutes": 52,
+      "status": "in_progress",
+      "maintenance_cost": 9764.26
+    },
+    {
+      "attraction_id": "AT886",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "medium",
+      "impact_minutes": 35,
+      "status": "pending",
+      "maintenance_cost": 3160.67
+    },
+    {
+      "attraction_id": "AT901",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "medium",
+      "impact_minutes": 53,
+      "status": "resolved",
+      "maintenance_cost": 6594.44
+    },
+    {
+      "attraction_id": "AT901",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "low",
+      "impact_minutes": 42,
+      "status": "pending",
+      "maintenance_cost": 3776.38
+    },
+    {
+      "attraction_id": "AT901",
+      "task": "repair",
+      "equipment": "motor",
+      "severity": "low",
+      "impact_minutes": 24,
+      "status": "pending",
+      "maintenance_cost": 385.72
+    },
+    {
+      "attraction_id": "AT901",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "medium",
+      "impact_minutes": 40,
+      "status": "resolved",
+      "maintenance_cost": 5760.07
+    },
+    {
+      "attraction_id": "AT449",
+      "task": "safety_check",
+      "equipment": "control_panel",
+      "severity": "medium",
+      "impact_minutes": 40,
+      "status": "in_progress",
+      "maintenance_cost": 2736.66
+    },
+    {
+      "attraction_id": "AT860",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "medium",
+      "impact_minutes": 39,
+      "status": "in_progress",
+      "maintenance_cost": 6234.32
+    },
+    {
+      "attraction_id": "AT860",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "medium",
+      "impact_minutes": 28,
+      "status": "in_progress",
+      "maintenance_cost": 6899.8
+    },
+    {
+      "attraction_id": "AT724",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "low",
+      "impact_minutes": 25,
+      "status": "pending",
+      "maintenance_cost": 7732.89
+    },
+    {
+      "attraction_id": "AT724",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "medium",
+      "impact_minutes": 18,
+      "status": "pending",
+      "maintenance_cost": 1452.49
+    },
+    {
+      "attraction_id": "AT761",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "high",
+      "impact_minutes": 43,
+      "status": "in_progress",
+      "maintenance_cost": 2893.86
+    },
+    {
+      "attraction_id": "AT761",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "high",
+      "impact_minutes": 39,
+      "status": "in_progress",
+      "maintenance_cost": 6998.34
+    },
+    {
+      "attraction_id": "AT761",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "high",
+      "impact_minutes": 40,
+      "status": "resolved",
+      "maintenance_cost": 9524.29
+    },
+    {
+      "attraction_id": "AT761",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "high",
+      "impact_minutes": 32,
+      "status": "in_progress",
+      "maintenance_cost": 6089.56
+    },
+    {
+      "attraction_id": "AT338",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "low",
+      "impact_minutes": 24,
+      "status": "pending",
+      "maintenance_cost": 5313.19
+    },
+    {
+      "attraction_id": "AT338",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "medium",
+      "impact_minutes": 28,
+      "status": "pending",
+      "maintenance_cost": 3066.24
+    },
+    {
+      "attraction_id": "AT338",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "medium",
+      "impact_minutes": 47,
+      "status": "in_progress",
+      "maintenance_cost": 9342.42
+    },
+    {
+      "attraction_id": "AT338",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "low",
+      "impact_minutes": 40,
+      "status": "pending",
+      "maintenance_cost": 1964.4
+    },
+    {
+      "attraction_id": "AT377",
+      "task": "lubrication",
+      "equipment": "gears",
+      "severity": "low",
+      "impact_minutes": 57,
+      "status": "pending",
+      "maintenance_cost": 8698.79
+    },
+    {
+      "attraction_id": "AT495",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "medium",
+      "impact_minutes": 28,
+      "status": "pending",
+      "maintenance_cost": 6202.72
+    },
+    {
+      "attraction_id": "AT495",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "low",
+      "impact_minutes": 27,
+      "status": "resolved",
+      "maintenance_cost": 6212.41
+    },
+    {
+      "attraction_id": "AT495",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "high",
+      "impact_minutes": 47,
+      "status": "in_progress",
+      "maintenance_cost": 6005.23
+    },
+    {
+      "attraction_id": "AT495",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "high",
+      "impact_minutes": 23,
+      "status": "pending",
+      "maintenance_cost": 6108.71
+    },
+    {
+      "attraction_id": "AT866",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "low",
+      "impact_minutes": 29,
+      "status": "pending",
+      "maintenance_cost": 2010.68
+    },
+    {
+      "attraction_id": "AT866",
+      "task": "repair",
+      "equipment": "safety_bars",
+      "severity": "low",
+      "impact_minutes": 51,
+      "status": "resolved",
+      "maintenance_cost": 9401.86
+    },
+    {
+      "attraction_id": "AT866",
+      "task": "software_update",
+      "equipment": "control_unit",
+      "severity": "high",
+      "impact_minutes": 28,
+      "status": "in_progress",
+      "maintenance_cost": 4001.14
+    },
+    {
+      "attraction_id": "AT951",
+      "task": "cleaning",
+      "equipment": "vacuum",
+      "severity": "low",
+      "impact_minutes": 50,
+      "status": "resolved",
+      "maintenance_cost": 6171.98
+    },
+    {
+      "attraction_id": "AT951",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "medium",
+      "impact_minutes": 31,
+      "status": "resolved",
+      "maintenance_cost": 4469.95
+    },
+    {
+      "attraction_id": "AT793",
+      "task": "software_update",
+      "equipment": "display_system",
+      "severity": "low",
+      "impact_minutes": 15,
+      "status": "pending",
+      "maintenance_cost": 5187.29
+    },
+    {
+      "attraction_id": "AT793",
+      "task": "inspection",
+      "equipment": "wiring",
+      "severity": "high",
+      "impact_minutes": 33,
+      "status": "resolved",
+      "maintenance_cost": 2004.76
+    },
+    {
+      "attraction_id": "AT218",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "medium",
+      "impact_minutes": 50,
+      "status": "in_progress",
+      "maintenance_cost": 1607.91
+    },
+    {
+      "attraction_id": "AT479",
+      "task": "software_update",
+      "equipment": "sensor_array",
+      "severity": "low",
+      "impact_minutes": 35,
+      "status": "in_progress",
+      "maintenance_cost": 9281.0
+    },
+    {
+      "attraction_id": "AT479",
+      "task": "lubrication",
+      "equipment": "chains",
+      "severity": "medium",
+      "impact_minutes": 22,
+      "status": "in_progress",
+      "maintenance_cost": 8947.33
+    },
+    {
+      "attraction_id": "AT479",
+      "task": "repair",
+      "equipment": "hydraulics",
+      "severity": "medium",
+      "impact_minutes": 24,
+      "status": "resolved",
+      "maintenance_cost": 7899.83
+    },
+    {
+      "attraction_id": "AT479",
+      "task": "cleaning",
+      "equipment": "water_jets",
+      "severity": "high",
+      "impact_minutes": 59,
+      "status": "pending",
+      "maintenance_cost": 1261.88
+    },
+    {
+      "attraction_id": "AT669",
+      "task": "lubrication",
+      "equipment": "pistons",
+      "severity": "high",
+      "impact_minutes": 10,
+      "status": "pending",
+      "maintenance_cost": 9335.43
+    },
+    {
+      "attraction_id": "AT669",
+      "task": "safety_check",
+      "equipment": "emergency_brakes",
+      "severity": "high",
+      "impact_minutes": 60,
+      "status": "pending",
+      "maintenance_cost": 2577.44
+    }
+  ]
+}
